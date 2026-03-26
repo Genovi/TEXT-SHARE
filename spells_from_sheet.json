@@ -1,0 +1,5231 @@
+[
+  {
+    "Spell Name": "Acid Bomb",
+    "Class": "Chaos",
+    "Charges": "17",
+    "Source": "Standard Spell, Engineer Starter",
+    "Ingame Description": "Target takes a small amount of damage. Then, it takees damage equal to the potency of its Bomb and this debuff is removed."
+  },
+  {
+    "Spell Name": "Acid Breath",
+    "Class": "Chaos",
+    "Charges": "14",
+    "Source": "False Gods (Hydranox)",
+    "Ingame Description": "Target is afflicted with Poisoned and Burning."
+  },
+  {
+    "Spell Name": "Acid Rain",
+    "Class": "Chaos",
+    "Charges": "5",
+    "Source": "4080 Shop (Favor Rank 25)",
+    "Ingame Description": "Enemies take a moderate amount of damage and lose a large amount of Defense."
+  },
+  {
+    "Spell Name": "Adrenaline Rush",
+    "Class": "Chaos",
+    "Charges": "16",
+    "Source": "Venedon Shop (Favor Rank 2)",
+    "Ingame Description": "Caster Attacks random enemies 3 times. Each attack deals 15% normal damage."
+  },
+  {
+    "Spell Name": "Affliction",
+    "Class": "Chaos",
+    "Charges": "17",
+    "Source": "Starter Spell, Inquisitor Starter",
+    "Ingame Description": "Enemies are afflicted with a random debuff."
+  },
+  {
+    "Spell Name": "Aftermath",
+    "Class": "Chaos",
+    "Charges": "12",
+    "Source": "4080 Shop (Favor Rank 12), Reaver Starter",
+    "Ingame Description": "Caster Attacks the target once for each turn the caster has taken in the current battle. Maximum of 10 attacks."
+  },
+  {
+    "Spell Name": "Anger",
+    "Class": "Chaos",
+    "Charges": "20",
+    "Source": "Genaros Shop (Favor Rank 9)",
+    "Ingame Description": "Target creature's Attack is set equal to its Intelligence."
+  },
+  {
+    "Spell Name": "Apocalypse",
+    "Class": "Chaos",
+    "Charges": "4",
+    "Source": "Standard Spell",
+    "Ingame Description": "All creatures take a massive amount of damage."
+  },
+  {
+    "Spell Name": "Arbitration",
+    "Class": "Chaos",
+    "Charges": "2",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies' buffs are removed, and your creatures gain those buffs."
+  },
+  {
+    "Spell Name": "Awakened Nether Orbs",
+    "Class": "Chaos",
+    "Charges": "1",
+    "Source": "Avatar of Caliban",
+    "Ingame Description": "One of the five Nether Orbs (chosen randomly) is awakened to cast a powerful spell. This spell is an Ultimate Spell."
+  },
+  {
+    "Spell Name": "Bangin' Bourbon",
+    "Class": "Chaos",
+    "Charges": "7",
+    "Source": "Gambling Dwarves",
+    "Ingame Description": "Deals a massive amount of damage to the target, then bounces to each of the target's allies at random. The damage is reduced by 20% for each bounce. This spell is a Booze Spell."
+  },
+  {
+    "Spell Name": "Bazooka",
+    "Class": "Chaos",
+    "Charges": "7",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a large amount of damage. This spell always deals critical damage."
+  },
+  {
+    "Spell Name": "Bladestorm",
+    "Class": "Chaos",
+    "Charges": "7",
+    "Source": "Chaos Guild",
+    "Ingame Description": "Enemies take a moderate amount of damage, plus 1% more damage for every 1% Health each enemy is missing."
+  },
+  {
+    "Spell Name": "Blastar Punch",
+    "Class": "Chaos",
+    "Charges": "8",
+    "Source": "Gonfurian Shop (Favor Rank 12)",
+    "Ingame Description": "Target takes a large amount of damage and is afflicted with Scorned."
+  },
+  {
+    "Spell Name": "Blastwave",
+    "Class": "Chaos",
+    "Charges": "8",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a small amount of damage, or a massive amount if they are afflicted with Burning."
+  },
+  {
+    "Spell Name": "Blitz Howl",
+    "Class": "Chaos",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a moderate amount of damage and have a 10% chance to be afflicted with Silenced, Burning, and Feared. This spell cannot be cast manually, but has a 30% chance to cast at the start of the caster's turn."
+  },
+  {
+    "Spell Name": "Blow Mind",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "Chaos Guild",
+    "Ingame Description": "Enemies take a small amount of damage, plus 20% more damage for each time enemies have Cast a spell in the current battle."
+  },
+  {
+    "Spell Name": "Boiling Blood",
+    "Class": "Chaos",
+    "Charges": "4",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a large amount of damage and the caster recovers a large amount of Health."
+  },
+  {
+    "Spell Name": "Butcher",
+    "Class": "Chaos",
+    "Charges": "1",
+    "Source": "Avatar of Tartarith",
+    "Ingame Description": "Target takes a devastating amount of damage. In addition, your creatures gain Attack, Intelligence, Defense and Speed equal to 30% of the damage dealt. This spell is an Ultimate spell."
+  },
+  {
+    "Spell Name": "Cauterize Wound",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target recovers a small amount of Health, or a massive amount of Health if the target is afflicted with Burning."
+  },
+  {
+    "Spell Name": "Chainsaw",
+    "Class": "Chaos",
+    "Charges": "4",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a large amount of damage continuously and is afflicted with Bleeding and Vulnerable. After the target takes damage, this spell has a 35% chance to end."
+  },
+  {
+    "Spell Name": "Chaos Blades",
+    "Class": "Chaos",
+    "Charges": "18",
+    "Source": "Chaos Guild",
+    "Ingame Description": "Target takes a small amount of damage, plus 5% more damage for each time your creatures have Attacked in the current battle."
+  },
+  {
+    "Spell Name": "Chaos Bolt",
+    "Class": "Chaos",
+    "Charges": "12",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a moderate amount of damage that ignores 50% of its Defense."
+  },
+  {
+    "Spell Name": "Chaos Channeling",
+    "Class": "Chaos",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target is afflicted with 3 random debuffs."
+  },
+  {
+    "Spell Name": "Chaos Mastery",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain a moderate amount of Attack and Savage."
+  },
+  {
+    "Spell Name": "Chaos Nexus",
+    "Class": "Chaos",
+    "Charges": "7",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies' classes are changed to match that of the target for the rest of the battle."
+  },
+  {
+    "Spell Name": "Chaos Orb",
+    "Class": "Chaos",
+    "Charges": "3",
+    "Source": "False Gods (Caliban)",
+    "Ingame Description": "Enemies take a large amount of damage and their buffs and minions are removed."
+  },
+  {
+    "Spell Name": "Chaos Reign",
+    "Class": "Chaos",
+    "Charges": "20",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Caster Casts one of the target's Spell Gems."
+  },
+  {
+    "Spell Name": "Chaos Rift",
+    "Class": "Chaos",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain a random trait."
+  },
+  {
+    "Spell Name": "Chaos Spheres",
+    "Class": "Chaos",
+    "Charges": "20",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target's spell gems are Sealed for the rest of the battle."
+  },
+  {
+    "Spell Name": "Clayman",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "Venedon Shop (Favor Rank 6)",
+    "Ingame Description": "Target gains Maximum Health equal to its Current Health."
+  },
+  {
+    "Spell Name": "Cloud of Embers",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a small amount of damage plus 10% for how low they are on the Timeline."
+  },
+  {
+    "Spell Name": "Cluster Bomb",
+    "Class": "Chaos",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Random enemies take damage equal to 100% of their Bomb's potency. If they do not already have this debuff, they are afflicted with it. After each enemy is affected by this spell, it has a 25% chance to end."
+  },
+  {
+    "Spell Name": "Colorwave (Chaos)",
+    "Class": "Chaos",
+    "Charges": "1",
+    "Source": "Spellweaver",
+    "Ingame Description": "Target takes a devastating amount of damage, plus 50% more damage for each Chaos Infusion you have."
+  },
+  {
+    "Spell Name": "Conflagration",
+    "Class": "Chaos",
+    "Charges": "13",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a small amount of damage, and all enemies take damage equal to 35% of the damage the target's Burning debuff would deal over its remaining duration."
+  },
+  {
+    "Spell Name": "Conjoin",
+    "Class": "Chaos",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Potency of the target's Bomb is increased by 80% of the caster's Speed."
+  },
+  {
+    "Spell Name": "Controlled Burn",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "False Gods (Nebodar)",
+    "Ingame Description": "Target takes a large amount of damage, plus 5% more damage for each time the caster has Cast a spell in the current battle."
+  },
+  {
+    "Spell Name": "Crush Punch",
+    "Class": "Chaos",
+    "Charges": "8",
+    "Source": "Gonfurian Shop (Favor Rank 2)",
+    "Ingame Description": "Target takes a large amount of damage and loses a large amount of Defense."
+  },
+  {
+    "Spell Name": "Deadly Duel",
+    "Class": "Chaos",
+    "Charges": "3",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target has a 50% chance to be killed. Otherwise, the caster is killed."
+  },
+  {
+    "Spell Name": "Death and Destruction",
+    "Class": "Chaos",
+    "Charges": "",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Casts a random spell that belongs to the Cataclysm race. This effect has a 50% chance to repeat indefinitely."
+  },
+  {
+    "Spell Name": "Debilitating Blast",
+    "Class": "Chaos",
+    "Charges": "7",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a small amount of damage for each debuff (up to 3) they have."
+  },
+  {
+    "Spell Name": "Demon Core",
+    "Class": "Chaos",
+    "Charges": "5",
+    "Source": "Chaos Guild",
+    "Ingame Description": "Your creatures gain a large amount of Attack and Intelligence, and a random Chaos Spell Gem."
+  },
+  {
+    "Spell Name": "Demon's Judgment",
+    "Class": "Chaos",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies lose a large amount of a random stat, and your creatures gain a large amount of that stat."
+  },
+  {
+    "Spell Name": "Demonbreath",
+    "Class": "Chaos",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a moderate amount of damage and have a 75% chance to be afflicted with Blighted, a 50% chance to be afflicted with Inverted, and a 25% chance to be afflicted with Cursed."
+  },
+  {
+    "Spell Name": "Demonic Strike",
+    "Class": "Chaos",
+    "Charges": "11",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a moderate amount of damage, plus 50% more damage for each enemy of the same class fighting on the target's side."
+  },
+  {
+    "Spell Name": "Demonwrath",
+    "Class": "Chaos",
+    "Charges": "8",
+    "Source": "Chaos Guild",
+    "Ingame Description": "Target takes a massive amount of damage, minus 30% damage for each turn the caster has taken in the current battle."
+  },
+  {
+    "Spell Name": "Desperation",
+    "Class": "Chaos",
+    "Charges": "16",
+    "Source": "Genaros Shop (Favor Rank 12)",
+    "Ingame Description": "Target gains a Barrier that absorbs damage equal to its Defense, and loses 50% Defense."
+  },
+  {
+    "Spell Name": "Devastating Throw",
+    "Class": "Chaos",
+    "Charges": "2",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a massive amount of damage and has a 50% chance to be sent to the bottom of the timeline. 50% of the damage is based on the caster's Attack and 50% of the damage is based on the caster's Speed instead of Intelligence."
+  },
+  {
+    "Spell Name": "Devastation",
+    "Class": "Chaos",
+    "Charges": "9",
+    "Source": "False Gods (Nebodar), Toxicologist Starter",
+    "Ingame Description": "Increases the duration of enemies' Burning and Poisoned debuffs by 3 turns and increases their potency by 50%."
+  },
+  {
+    "Spell Name": "Dissonance",
+    "Class": "Chaos",
+    "Charges": "12",
+    "Source": "Standard Spell",
+    "Ingame Description": "Potencies of enemies' Bomb, Poisoned and Burning debuffs are averaged."
+  },
+  {
+    "Spell Name": "Double Punch",
+    "Class": "Chaos",
+    "Charges": "14",
+    "Source": "4080 Shop (Favor Rank 6)",
+    "Ingame Description": "Target takes a small amount of damage twice. 100% of the damage dealt is based on the caster's Attack instead of Intelligence."
+  },
+  {
+    "Spell Name": "Downburst",
+    "Class": "Chaos",
+    "Charges": "11",
+    "Source": "Venedon Shop (Favor Rank 16)",
+    "Ingame Description": "Target and the creatures adjacent to it take a moderate amount of damage."
+  },
+  {
+    "Spell Name": "Duel",
+    "Class": "Chaos",
+    "Charges": "7",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target and Caster Provoke and Attack each other."
+  },
+  {
+    "Spell Name": "Elder Dragon's Call",
+    "Class": "Chaos",
+    "Charges": "6",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a large amount of damage, and all other enemies take 30% of this damage."
+  },
+  {
+    "Spell Name": "Entropic Swing",
+    "Class": "Chaos",
+    "Charges": "2",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "All creatures' end-of-turn effects are activated and the Timeline is shuffled. This spell cannot be Cast manually, and has a 5% chance to be Cast at the start of each creature's turn."
+  },
+  {
+    "Spell Name": "Erratium",
+    "Class": "Chaos",
+    "Charges": "25",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Your creatures gain a random trait and are afflicted with Disarmed."
+  },
+  {
+    "Spell Name": "Eviscerate",
+    "Class": "Chaos",
+    "Charges": "15",
+    "Source": "Genaros Shop (Favor Rank 16)",
+    "Ingame Description": "Target takes damage. The amount of damage is increased based on how much Health the target is missing."
+  },
+  {
+    "Spell Name": "Failed Experiment",
+    "Class": "Chaos",
+    "Charges": "13",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a small amount of damage, or a massive amount if they are afflicted with Vulnerable."
+  },
+  {
+    "Spell Name": "Feeling Lucky",
+    "Class": "Chaos",
+    "Charges": "15",
+    "Source": "Standard Spell (Backer), Rune Knight Starter",
+    "Ingame Description": "Caster Casts one of its other spells. The targets are chosen at complete random."
+  },
+  {
+    "Spell Name": "Fiery Gleam",
+    "Class": "Chaos",
+    "Charges": "15",
+    "Source": "Standard Spell, Mesmerist Starter",
+    "Ingame Description": "Target is afflicted with Burning and Blind."
+  },
+  {
+    "Spell Name": "Fiery Stew",
+    "Class": "Chaos",
+    "Charges": "7",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target recovers a small amount of Health and gains a small amount of Defense. Then, a random enemy is afflicted with Burning."
+  },
+  {
+    "Spell Name": "Fireball",
+    "Class": "Chaos",
+    "Charges": "8",
+    "Source": "Vulcanar Shop (Favor Rank 2)",
+    "Ingame Description": "Target takes a moderate amount of damage and is afflicted with Burning."
+  },
+  {
+    "Spell Name": "Firebreath",
+    "Class": "Chaos",
+    "Charges": "7",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a large amount of damage continuously and is afflicted with Burning. After the target takes damage, this spell has a 30% chance to end."
+  },
+  {
+    "Spell Name": "Firedevil's Rage",
+    "Class": "Chaos",
+    "Charges": "13",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies are afflicted with Burning."
+  },
+  {
+    "Spell Name": "Firestorm",
+    "Class": "Chaos",
+    "Charges": "8",
+    "Source": "Vulcanar Shop (Favor Rank 6)",
+    "Ingame Description": "Enemies take a moderate amount of damage and are afflicted with Burning."
+  },
+  {
+    "Spell Name": "Firewall",
+    "Class": "Chaos",
+    "Charges": "6",
+    "Source": "4080 Shop (Favor Rank 2), Siegemaster Starter",
+    "Ingame Description": "Enemies take a moderate amount of damage. Your creatures gain a moderate amount of Defense."
+  },
+  {
+    "Spell Name": "Flame Enchantment",
+    "Class": "Chaos",
+    "Charges": "13",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains Proficient."
+  },
+  {
+    "Spell Name": "Flame Lash",
+    "Class": "Chaos",
+    "Charges": "12",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain Berserk and Splashing."
+  },
+  {
+    "Spell Name": "Flameheart",
+    "Class": "Chaos",
+    "Charges": "22",
+    "Source": "False Gods (Nebodar)",
+    "Ingame Description": "Your creatures gain a Barrier that absorbs damage equal to the amount of damage they've taken in the current battle."
+  },
+  {
+    "Spell Name": "Flamestrike",
+    "Class": "Chaos",
+    "Charges": "9",
+    "Source": "Vulcanar Shop (Favor Rank 9), Pyromancer Starter",
+    "Ingame Description": "Enemies take a small amount of damage. This spell Casts a number of times equal to the number of enemies that are afflicted with Burning."
+  },
+  {
+    "Spell Name": "Fracking Strike",
+    "Class": "Chaos",
+    "Charges": "18",
+    "Source": "False Gods (Construct)",
+    "Ingame Description": "Target takes a small amount of damage, plus 10% for each Charge this Spell Gem is missing."
+  },
+  {
+    "Spell Name": "Fractal Explosion",
+    "Class": "Chaos",
+    "Charges": "12",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Afflicts 3 random enemies with Bomb."
+  },
+  {
+    "Spell Name": "Fragile Perfection",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Caster gains 3 random buffs and is afflicted with 3 random debuffs."
+  },
+  {
+    "Spell Name": "Frustration",
+    "Class": "Chaos",
+    "Charges": "15",
+    "Source": "False Gods (Nebodar)",
+    "Ingame Description": "Target takes a moderate amount of damage, plus 15% more damage for each debuff the caster has."
+  },
+  {
+    "Spell Name": "Golden Stout",
+    "Class": "Chaos",
+    "Charges": "30",
+    "Source": "Gambling Dwarves",
+    "Ingame Description": "Caster Casts the Spell Gem in its Artifact's Spell Slot. This spell is a Booze Spell."
+  },
+  {
+    "Spell Name": "Grand Explosion",
+    "Class": "Chaos",
+    "Charges": "6",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a large amount of damage and are afflicted with Bomb. For each enemy that already has Bomb, this spell deals 20% more damage."
+  },
+  {
+    "Spell Name": "Grand Fireball",
+    "Class": "Chaos",
+    "Charges": "",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a massive amount of damage and is afflcted with Burning. Adjacent targets take 35% of this damage and are afflicted with Burning."
+  },
+  {
+    "Spell Name": "Gunpowder",
+    "Class": "Chaos",
+    "Charges": "7",
+    "Source": "Standard Spell",
+    "Ingame Description": "Potency of enemies' Bomb debuffs is increased by 30% of the caster's Speed."
+  },
+  {
+    "Spell Name": "Heat Beam",
+    "Class": "Chaos",
+    "Charges": "1",
+    "Source": "Avatar of 4080",
+    "Ingame Description": "Target is killed. If it cannot be killed, it takes a devastating amount of damage 3 times. This spell is an Ultimate Spell."
+  },
+  {
+    "Spell Name": "Heat Wave",
+    "Class": "Chaos",
+    "Charges": "1",
+    "Source": "Avatar of Vulcanar",
+    "Ingame Description": "Enemies take a large amount of damage. In addition, enemies' Maximum Health is reduced by the amount of damage dealt. This spell is an Ultimate spell."
+  },
+  {
+    "Spell Name": "Hell Forge",
+    "Class": "Chaos",
+    "Charges": "20",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains Taunting and Splashing."
+  },
+  {
+    "Spell Name": "Hellcry Punch",
+    "Class": "Chaos",
+    "Charges": "8",
+    "Source": "Gonfurian Shop (Favor Rank 6)",
+    "Ingame Description": "Target takes a large amount of damage and is afflicted with Cursed."
+  },
+  {
+    "Spell Name": "Hoo Hay Hell",
+    "Class": "Chaos",
+    "Charges": "15",
+    "Source": "False Gods (Impington)",
+    "Ingame Description": "Random enemies take a large amount of damage continuously. After each enemy takes damage, the spell has a 35% chance to end."
+  },
+  {
+    "Spell Name": "Immolation Aura",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain Savage and Splashing."
+  },
+  {
+    "Spell Name": "Impale",
+    "Class": "Chaos",
+    "Charges": "7",
+    "Source": "Genaros Shop (Favor Rank 6)",
+    "Ingame Description": "Target takes a large amount of damage, and enemies adjacent to the target take 75% of that damage."
+  },
+  {
+    "Spell Name": "Implosion",
+    "Class": "Chaos",
+    "Charges": "20",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a small amount of damage. This damage is increased by 50% for each buff the target has."
+  },
+  {
+    "Spell Name": "Infernal Charge",
+    "Class": "Chaos",
+    "Charges": "15",
+    "Source": "Standard Spell, Hell Knight Starter, Demonologist Starter",
+    "Ingame Description": "Target Attacks a random enemy for 200% extra damage."
+  },
+  {
+    "Spell Name": "Infernal Claw",
+    "Class": "Chaos",
+    "Charges": "9",
+    "Source": "Chaos Guild",
+    "Ingame Description": "Target takes a small amount of damage and is afflicted with Burning, Bleeding and Vulnerable."
+  },
+  {
+    "Spell Name": "Infernal Pillars",
+    "Class": "Chaos",
+    "Charges": "3",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a small amount of damage, or a massive amount of damage if it is afflicted with Burning."
+  },
+  {
+    "Spell Name": "Inferno",
+    "Class": "Chaos",
+    "Charges": "20",
+    "Source": "Vulcanar Shop (Favor Rank 16)",
+    "Ingame Description": "Extends the duration of the enemies' Burning debuff by 1 turn and increases the debuff's potency by 100%."
+  },
+  {
+    "Spell Name": "Inner Destruction",
+    "Class": "Chaos",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Caster takes a moderate amount of damage. This spell cannot be cast manually, and instead has a 20% chance to be cast by enemies at the start of their turns."
+  },
+  {
+    "Spell Name": "Internal Combustion",
+    "Class": "Chaos",
+    "Charges": "20",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a moderate amount of damage. If the target is killed by this spell, all other enemies take 25% of this damage and are afflicted with Burning."
+  },
+  {
+    "Spell Name": "Karmic Retribution",
+    "Class": "Chaos",
+    "Charges": "12",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a small amount of damage. The amount of damage increases by 50% for each time this Spell Gem has been Cast in the current battle."
+  },
+  {
+    "Spell Name": "Kick",
+    "Class": "Chaos",
+    "Charges": "15",
+    "Source": "Standard Spell, Trickster Starter",
+    "Ingame Description": "Target takes a moderate amount of damage, plus 25% more damage for each debuff it has."
+  },
+  {
+    "Spell Name": "Kindle",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "False Gods (Nebodar)",
+    "Ingame Description": "Target takes a large amount of damage, plus 5% more damage for each time the caster has Attacked in the current battle."
+  },
+  {
+    "Spell Name": "Knife's Edge",
+    "Class": "Chaos",
+    "Charges": "8",
+    "Source": "Chaos Guild",
+    "Ingame Description": "Target takes a large amount of damage, plus 5% more damage for each 1% Health the caster is missing."
+  },
+  {
+    "Spell Name": "Lacerate",
+    "Class": "Chaos",
+    "Charges": "12",
+    "Source": "Tartarith Shop (Favor Rank 2)",
+    "Ingame Description": "If the target has Bleeding, it takes a massive amount of damage. Otherwise, deals a moderate amount of damage and afflicts the target with Bleeding."
+  },
+  {
+    "Spell Name": "Last Stand",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "Chaos Guild",
+    "Ingame Description": "Target Attacks random enemies 3 times for 200% normal damage. Then, it dies."
+  },
+  {
+    "Spell Name": "Living Axe",
+    "Class": "Chaos",
+    "Charges": "6",
+    "Source": "Arena Shop (Rank 44)",
+    "Ingame Description": "Target takes a large amount of damage, plus 25% more damage for each Arsenal Spell spell the caster has Cast in the current battle. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Chaos Lance",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "Arena Shop (Rank 28)",
+    "Ingame Description": "Target takes a small amount of damage, or massive damage if the target is a Chaos creature. The potency is based on the caster's Attack instead of Intelligence. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Chaos Shield",
+    "Class": "Chaos",
+    "Charges": "7",
+    "Source": "Arena Shop (Rank 28)",
+    "Ingame Description": "Caster's class is changed to Chaos, it gains Taunting, and it gains a moderate amount of Defense. The potency is based on the caster's Defense instead of Intelligence. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Gauntlet",
+    "Class": "Chaos",
+    "Charges": "4",
+    "Source": "Arena Shop (Rank 8)",
+    "Ingame Description": "Caster gains a massive amount of Attack and Savage. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Sword",
+    "Class": "Chaos",
+    "Charges": "5",
+    "Source": "Arena Shop (Rank 9)",
+    "Ingame Description": "Target takes a large amount of damage, plus damage equal to 50% of the caster's Attack. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Luck of the Draw",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "All creatures gain a random buff and a random debuff."
+  },
+  {
+    "Spell Name": "Luck's Gambit",
+    "Class": "Chaos",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "All creatures' Ethereal Spell Gems are replaced with different ones."
+  },
+  {
+    "Spell Name": "Magma Orb",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a moderate amount of damage, and random enemies take a moderate amount of damage for each debuff the target has."
+  },
+  {
+    "Spell Name": "Mass Mutilation",
+    "Class": "Chaos",
+    "Charges": "3",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "All creatures Attack themselves for 25% normal damage. This spell can only be Cast once at a time."
+  },
+  {
+    "Spell Name": "Mass Taunt",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Your creatures Provoke."
+  },
+  {
+    "Spell Name": "Meat Grinder",
+    "Class": "Chaos",
+    "Charges": "15",
+    "Source": "Chaos Guild",
+    "Ingame Description": "Enemies take damage equal to 30% of the amount of Attack they've lost in the current battle."
+  },
+  {
+    "Spell Name": "Memento of Attack",
+    "Class": "Chaos",
+    "Charges": "20",
+    "Source": "False Gods (Construct)",
+    "Ingame Description": "This spell doesn't do anything when Cast. The caster has 5% more Attack for each Charge this Spell Gem is missing."
+  },
+  {
+    "Spell Name": "Molten Armor",
+    "Class": "Chaos",
+    "Charges": "18",
+    "Source": "Starter Spell",
+    "Ingame Description": "Target gains Shelled and 30% Attack."
+  },
+  {
+    "Spell Name": "Molten Wall",
+    "Class": "Chaos",
+    "Charges": "8",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain a moderate amount of Attack and Defense."
+  },
+  {
+    "Spell Name": "Morph: Chaos",
+    "Class": "Chaos",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain a large amount of Attack and their classes become Chaos until the end of battle."
+  },
+  {
+    "Spell Name": "Mutilate",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "Tartarith Shop (Favor Rank 16)",
+    "Ingame Description": "Target takes damage equal to 50% of the caster's Current Health."
+  },
+  {
+    "Spell Name": "Napalm",
+    "Class": "Chaos",
+    "Charges": "2",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a large amount of damage, are afflicted with Burning and Vulnerable, and lose a large amount of Defense."
+  },
+  {
+    "Spell Name": "Nine Meteors",
+    "Class": "Chaos",
+    "Charges": "3",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "A random enemy takes a small amount of damage. This effect occurs 9 times."
+  },
+  {
+    "Spell Name": "Nuclear Blast",
+    "Class": "Chaos",
+    "Charges": "2",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a large amount of damage and are afflicted with Poisoned, Blighted and Inverted."
+  },
+  {
+    "Spell Name": "Orbital Strike",
+    "Class": "Chaos",
+    "Charges": "1",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a devastating amount of damage and loses a small amount of Defense."
+  },
+  {
+    "Spell Name": "Overheat",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "False Gods (Construct)",
+    "Ingame Description": "Enemies take a small amount of damage, plus 10% for each Charge this Spell Gem is missing."
+  },
+  {
+    "Spell Name": "Pandemonium",
+    "Class": "Chaos",
+    "Charges": "12",
+    "Source": "Standard Spell",
+    "Ingame Description": "Shuffles the Timeline."
+  },
+  {
+    "Spell Name": "Panic Attack",
+    "Class": "Chaos",
+    "Charges": "6",
+    "Source": "Standard Spell",
+    "Ingame Description": "Each of your creatures Attack a random enemy for 50% normal damage."
+  },
+  {
+    "Spell Name": "Planets",
+    "Class": "Chaos",
+    "Charges": "6",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a large amount of damage."
+  },
+  {
+    "Spell Name": "Productive Belch",
+    "Class": "Chaos",
+    "Charges": "19",
+    "Source": "Tartarith Shop (Favor Rank 6)",
+    "Ingame Description": "Target takes a small amount of damage and is afflicted with Disarmed."
+  },
+  {
+    "Spell Name": "Promethean Blaze",
+    "Class": "Chaos",
+    "Charges": "2",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a moderate amount of damage and are afflicted with Burning. Caster gains Intelligence equal to 10% of the damage dealt."
+  },
+  {
+    "Spell Name": "Pumpkin King's Wrath",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a moderate amount of damage 2 times."
+  },
+  {
+    "Spell Name": "Pyroburst",
+    "Class": "Chaos",
+    "Charges": "12",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a small amount of damage, or a massive amount of damage if they are afflicted with Bomb."
+  },
+  {
+    "Spell Name": "Radiant Sunfire",
+    "Class": "Chaos",
+    "Charges": "4",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Your creatures gain a random buff and enemies are afflicted with a random debuff for each enemy with Burning."
+  },
+  {
+    "Spell Name": "Ravage",
+    "Class": "Chaos",
+    "Charges": "11",
+    "Source": "Tartarith Shop (Favor Rank 12)",
+    "Ingame Description": "Target takes a moderate amount of damage and loses a moderate amount of Defense."
+  },
+  {
+    "Spell Name": "Raze",
+    "Class": "Chaos",
+    "Charges": "12",
+    "Source": "Vulcanar Shop (Favor Rank 12)",
+    "Ingame Description": "Enemies take damage equal to 2 turns of their Burning debuff."
+  },
+  {
+    "Spell Name": "Redirection",
+    "Class": "Chaos",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains a moderate amount of Defense and it Provokes."
+  },
+  {
+    "Spell Name": "Rend",
+    "Class": "Chaos",
+    "Charges": "12",
+    "Source": "Starter Spell",
+    "Ingame Description": "Target takes a moderate amount of damage and is afflicted with Bleeding."
+  },
+  {
+    "Spell Name": "Rolling Meteor",
+    "Class": "Chaos",
+    "Charges": "6",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Random enemies continuously take damage equal to 20% of this creature's Current Health. After each enemy takes damage, the spell has a 25% chance to end."
+  },
+  {
+    "Spell Name": "Rune of Cor",
+    "Class": "Chaos",
+    "Charges": "20",
+    "Source": "Rune Knight",
+    "Ingame Description": "Target takes a large amount of damage, loses a moderate amount of a random stat, and the caster's on-attack effects are activated. 100% of this spell's damage is based on the caster's highest stat."
+  },
+  {
+    "Spell Name": "Rupture",
+    "Class": "Chaos",
+    "Charges": "14",
+    "Source": "Venedon Shop (Favor Rank 25)",
+    "Ingame Description": "Target takes a small amount of damage. This damage is increased by the percentage of Attack, Intelligence, Defense and Speed the caster has over those of the target."
+  },
+  {
+    "Spell Name": "Sabotage",
+    "Class": "Chaos",
+    "Charges": "20",
+    "Source": "Genaros Shop (Favor Rank 2)",
+    "Ingame Description": "Target attacks the caster 3 times for 5% normal damage. These attacks cannot be dodged, and always deal at least 1 damage."
+  },
+  {
+    "Spell Name": "Savage Roar",
+    "Class": "Chaos",
+    "Charges": "3",
+    "Source": "Genaros Shop (Favor Rank 25)",
+    "Ingame Description": "Your creatures gain a massive amount of Attack."
+  },
+  {
+    "Spell Name": "Scourge Sorcery",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a small amount of damage, or massive damage if the target is a Sorcery creature."
+  },
+  {
+    "Spell Name": "Searing Flames",
+    "Class": "Chaos",
+    "Charges": "1",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a moderate amount of damage, are afflicted with Burning and Disarmed, and their buffs and debuffs are removed."
+  },
+  {
+    "Spell Name": "Shield Bash",
+    "Class": "Chaos",
+    "Charges": "12",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a small amount of damage and is afflicted with Confused. 100% of the damage dealt is based on the caster's Defense instead of Intelligence."
+  },
+  {
+    "Spell Name": "Shield Slam",
+    "Class": "Chaos",
+    "Charges": "13",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a moderate amount of damage and has a 35% chance to be sent to the bottom of the Timeline. 100% of the damage is based on the caster's Defense instead of Intelligence."
+  },
+  {
+    "Spell Name": "Shootout",
+    "Class": "Chaos",
+    "Charges": "1",
+    "Source": "Avatar of Venedon",
+    "Ingame Description": "Target takes a massive amount of damage. This spell has a 100% chance to deal critical damage and regenerates 1 Charge after an enemy is killed. This spell is an Ultimate spell."
+  },
+  {
+    "Spell Name": "Short Fuse",
+    "Class": "Chaos",
+    "Charges": "7",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take damage equal to 100% of the potency of their Bomb debuffs."
+  },
+  {
+    "Spell Name": "Shotgun",
+    "Class": "Chaos",
+    "Charges": "6",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a large amount of damage continuously. After the target takes damage, this spell has a 50% chance to end. This spell always deals critical damage."
+  },
+  {
+    "Spell Name": "Shrapnel Grenade",
+    "Class": "Chaos",
+    "Charges": "6",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a massive amount of damage and is afflicted with Bleeding. Each other enemy has a 50% chance to be targeted by this spell as well."
+  },
+  {
+    "Spell Name": "Skewer",
+    "Class": "Chaos",
+    "Charges": "15",
+    "Source": "Chaos Guild",
+    "Ingame Description": "Enemies take damage equal to 30% of the amount of damage they've taken from Bleeding in the current battle."
+  },
+  {
+    "Spell Name": "Smoke Bolt",
+    "Class": "Chaos",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a moderate amount of damage and loses a small amount of Attack, Intelligence and Defense."
+  },
+  {
+    "Spell Name": "Sneak Attack",
+    "Class": "Chaos",
+    "Charges": "11",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a massive amount of damage the first time this spell is Cast in the current battle. Subsequent casts deal a small amount of damage."
+  },
+  {
+    "Spell Name": "Snipe",
+    "Class": "Chaos",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a massive amount of damage and has a 30% chance to be killed. This spell always deals critical damage."
+  },
+  {
+    "Spell Name": "Soul Fire",
+    "Class": "Chaos",
+    "Charges": "9",
+    "Source": "Venedon Shop (Favor Rank 9)",
+    "Ingame Description": "Enemies take a moderate amount of damage, plus 10% more damage for each buff they have."
+  },
+  {
+    "Spell Name": "Spicy Suds",
+    "Class": "Chaos",
+    "Charges": "9",
+    "Source": "Gambling Dwarves",
+    "Ingame Description": "Your creatures with Splashing Attack random enemies. Otherwise, they gain Splashing. This spell is a Booze Spell."
+  },
+  {
+    "Spell Name": "Split Punch",
+    "Class": "Chaos",
+    "Charges": "8",
+    "Source": "Gonfurian Shop (Favor Rank 16)",
+    "Ingame Description": "Target takes a large amount of damage and is afflicted with Bleeding."
+  },
+  {
+    "Spell Name": "Sunder",
+    "Class": "Chaos",
+    "Charges": "1",
+    "Source": "Avatar of Gonfurian",
+    "Ingame Description": "Enemies take a large amount of damage and their Defense and Speed are set to their minimum values. This spell is an Ultimate spell."
+  },
+  {
+    "Spell Name": "Total Carnage",
+    "Class": "Chaos",
+    "Charges": "1",
+    "Source": "Avatar of Genaros",
+    "Ingame Description": "Enemies are afflicted with Bleeding and this creature Attacks each enemy. This spell is an Ultimate Spell."
+  },
+  {
+    "Spell Name": "Toxic Shield",
+    "Class": "Chaos",
+    "Charges": "13",
+    "Source": "Venedon Shop (Favor Rank 12)",
+    "Ingame Description": "Target gains 20% Defense for each debuff it has. Then, the target's debuffs are removed."
+  },
+  {
+    "Spell Name": "Unbound Combustion",
+    "Class": "Chaos",
+    "Charges": "9",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a small amount of damage. 100% of the damage is based on the caster's Maximum Health instead of Intelligence."
+  },
+  {
+    "Spell Name": "Uzi",
+    "Class": "Chaos",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Random enemies take a small amount of damage continuously. After each enemy takes damage, the spell has a 20% chance to end. This spell always deals critical damage."
+  },
+  {
+    "Spell Name": "Vilify",
+    "Class": "Chaos",
+    "Charges": "15",
+    "Source": "4080 Shop (Favor Rank 16)",
+    "Ingame Description": "Enemies are no longer Defending or Provoking."
+  },
+  {
+    "Spell Name": "Volatile Strike",
+    "Class": "Chaos",
+    "Charges": "7",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a moderate amount of damage. This damage is mitigated by the target's lowest stat. 100% of the damage dealt is based on the caster's highest stat instead of intelligence."
+  },
+  {
+    "Spell Name": "Volcano",
+    "Class": "Chaos",
+    "Charges": "4",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a large amount of damage and are afflicted with Burning."
+  },
+  {
+    "Spell Name": "Warning",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "False Gods (Ancestor)",
+    "Ingame Description": "Your Provoking creatures gain a massive amount of Defense."
+  },
+  {
+    "Spell Name": "Warp Reality",
+    "Class": "Chaos",
+    "Charges": "20",
+    "Source": "4080 Shop (Favor Rank 9)",
+    "Ingame Description": "Target's Barrier shatters, dealing damage to the target equal to 200% of the Barrier's strength."
+  },
+  {
+    "Spell Name": "Whiplash",
+    "Class": "Chaos",
+    "Charges": "16",
+    "Source": "Tartarith Shop (Favor Rank 9)",
+    "Ingame Description": "Target takes a small amount of damage and is afflicted with Bleeding. 100% of the damage dealt is based on the caster's Speed instead of Intelligence."
+  },
+  {
+    "Spell Name": "Word of Chaos",
+    "Class": "Chaos",
+    "Charges": "10",
+    "Source": "Gonfurian Shop (Favor Rank 9)",
+    "Ingame Description": "Target has a 5% chance to be killed for each debuff it has."
+  },
+  {
+    "Spell Name": "Absolute Corruption",
+    "Class": "Death",
+    "Charges": "15",
+    "Source": "Ariamaki Shop (Favor Rank 9)",
+    "Ingame Description": "Target's buffs are converted to random debuffs."
+  },
+  {
+    "Spell Name": "Aggravate",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "False Gods (Ancestor)",
+    "Ingame Description": "Enemies with Cursed Attack the caster for 25% normal damage."
+  },
+  {
+    "Spell Name": "Annihilate",
+    "Class": "Death",
+    "Charges": "7",
+    "Source": "Alexandria Shop (Favor Rank 25)",
+    "Ingame Description": "Enemies take a small amount of damage, or a massive amount of damage if they are afflicted with a debuff."
+  },
+  {
+    "Spell Name": "Balance In All Things",
+    "Class": "Death",
+    "Charges": "1",
+    "Source": "Avatar of Reclusa",
+    "Ingame Description": "Your creatures are healed or resurrected with a devastating amount of Health, and enemies take a devastating amount of damage. This spell is an Ultimate Spell."
+  },
+  {
+    "Spell Name": "Black Magic",
+    "Class": "Death",
+    "Charges": "6",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Random enemies are afflicted with a random debuff continuously. After each enemy is afflicted with a debuff, this spell has a 50% chance to end."
+  },
+  {
+    "Spell Name": "Blood Burst",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a moderate amount of damage, plus 2% more damage for every 1% Health it has."
+  },
+  {
+    "Spell Name": "Blood Moon",
+    "Class": "Death",
+    "Charges": "13",
+    "Source": "Death Guild, Gladiator Starter",
+    "Ingame Description": "Target takes damage equal to 30% of the amount of damage it has taken in the current battle."
+  },
+  {
+    "Spell Name": "Blood Shield",
+    "Class": "Death",
+    "Charges": "17",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a large amount of damage and gains 200% of the damage taken as a Barrier."
+  },
+  {
+    "Spell Name": "Blood Spray",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a moderate amount of damage, plus 100% more damage for each time they've taken damage from Bleeding in the current battle."
+  },
+  {
+    "Spell Name": "Bloodwave",
+    "Class": "Death",
+    "Charges": "1",
+    "Source": "Avatar of Mortem",
+    "Ingame Description": "Enemies take damage equal to 50% of the Maximum Health the caster gained in the current battle. This spell is an Ultimate spell."
+  },
+  {
+    "Spell Name": "Bone Armor",
+    "Class": "Death",
+    "Charges": "9",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains a large amount of Defense and Speed."
+  },
+  {
+    "Spell Name": "Bone Offering",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Mortem Shop (Favor Rank 2)",
+    "Ingame Description": "Target loses a large amount of Defense, and your creatures gain 20% of that amount."
+  },
+  {
+    "Spell Name": "Bone Spear",
+    "Class": "Death",
+    "Charges": "13",
+    "Source": "Mortem Shop (Favor Rank 6)",
+    "Ingame Description": "Target takes a moderate amount of damage. If the amount of damage exceeds 25% of the target's Maximum Health, all other enemies take a moderate amount of damage as well."
+  },
+  {
+    "Spell Name": "Cannibalize",
+    "Class": "Death",
+    "Charges": "18",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a small amount of damage, or a devastating amount of damage if the target's class is the same as that of the caster."
+  },
+  {
+    "Spell Name": "Clawing Shadows",
+    "Class": "Death",
+    "Charges": "12",
+    "Source": "Tenebris Shop (Favor Rank 2), Doombringer Starter",
+    "Ingame Description": "Target takes a moderate amount of damage. The damage is based on the caster's highest stat instead of Intelligence."
+  },
+  {
+    "Spell Name": "Clogged Pores",
+    "Class": "Death",
+    "Charges": "7",
+    "Source": "False Gods (Loid)",
+    "Ingame Description": "Target is afflicted with Poisoned, Burning, and Bleeding."
+  },
+  {
+    "Spell Name": "Cloud of Anguish",
+    "Class": "Death",
+    "Charges": "3",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a small amount of damage, plus 3% more damage for each debuff each enemy has. Enemies are afflicted with 2 random debuffs."
+  },
+  {
+    "Spell Name": "Colorwave (Death)",
+    "Class": "Death",
+    "Charges": "1",
+    "Source": "Spellweaver",
+    "Ingame Description": "Enemies are afflicted with 3 random debuffs, plus 1 random debuff for each Death Infusion you have."
+  },
+  {
+    "Spell Name": "Comet",
+    "Class": "Death",
+    "Charges": "1",
+    "Source": "Avatar of Vertraag",
+    "Ingame Description": "Enemies take a moderate amount of damage, multiplied by the number of turns the caster has taken in the current battle. This spell is an Ultimate spell."
+  },
+  {
+    "Spell Name": "Contagion",
+    "Class": "Death",
+    "Charges": "13",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies' minions are removed. Enemies are afflicted with a random debuff for each minion removed."
+  },
+  {
+    "Spell Name": "Corpse Explosion",
+    "Class": "Death",
+    "Charges": "12",
+    "Source": "Mortem Shop (Favor Rank 12), Purgatorian Starter",
+    "Ingame Description": "Enemies take a small amount of damage, increased by the number of dead creatures on the battlefield."
+  },
+  {
+    "Spell Name": "Corpse Shield",
+    "Class": "Death",
+    "Charges": "15",
+    "Source": "Mortem Shop (Favor Rank 16)",
+    "Ingame Description": "Your creatures gain a Barrier that absorbs a large amount of damage for each of your dead creatures."
+  },
+  {
+    "Spell Name": "Corruption",
+    "Class": "Death",
+    "Charges": "17",
+    "Source": "Friden Shop (Favor Rank 2)",
+    "Ingame Description": "Target is afflicted with Blighted and Cursed."
+  },
+  {
+    "Spell Name": "Crucifixion",
+    "Class": "Death",
+    "Charges": "8",
+    "Source": "Tenebris Shop (Favor Rank 25)",
+    "Ingame Description": "Target takes a large amount of damage, plus 35% more damage for each minion the caster has."
+  },
+  {
+    "Spell Name": "Cry of the Mandrake",
+    "Class": "Death",
+    "Charges": "3",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies each have a 25% chance to be killed."
+  },
+  {
+    "Spell Name": "Curse of Doom",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies with Cursed gain a large amount of Attack and Intelligence and lose a large amount of Defense and Speed."
+  },
+  {
+    "Spell Name": "Curse of Jimly",
+    "Class": "Death",
+    "Charges": "9",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies are afflicted with a random debuff for every 3 stacks of Zombies the caster has."
+  },
+  {
+    "Spell Name": "Cyanide Gas",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies are afflicted with Poisoned and have a 25% chance to be killed."
+  },
+  {
+    "Spell Name": "Damnation",
+    "Class": "Death",
+    "Charges": "12",
+    "Source": "Alexandria Shop (Favor Rank 2)",
+    "Ingame Description": "Enemies are afflicted with Cursed."
+  },
+  {
+    "Spell Name": "Dark Enchantment",
+    "Class": "Death",
+    "Charges": "12",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains Arcane."
+  },
+  {
+    "Spell Name": "Dark Ritual",
+    "Class": "Death",
+    "Charges": "12",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target creature is killed, and the caster gains all its buffs and 100% of its Attack and Speed."
+  },
+  {
+    "Spell Name": "Dark Sky",
+    "Class": "Death",
+    "Charges": "7",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "A random buff is removed from random enemies continuously. After each enemy loses a buff, this spell has a 50% chance to end."
+  },
+  {
+    "Spell Name": "Dark Strike",
+    "Class": "Death",
+    "Charges": "1",
+    "Source": "Avatar of Erebyss",
+    "Ingame Description": "Target takes a devastating amount of damage, and is afflicted with all debuffs. This spell is an Ultimate Spell."
+  },
+  {
+    "Spell Name": "Dark Summoning",
+    "Class": "Death",
+    "Charges": "13",
+    "Source": "Death Guild",
+    "Ingame Description": "Your creatures Cast one of their spells that interact with minions."
+  },
+  {
+    "Spell Name": "Dark Thoughts",
+    "Class": "Death",
+    "Charges": "6",
+    "Source": "Death Guild",
+    "Ingame Description": "Your creatures gain a massive amount of Intelligence and are afflicted with Scorned."
+  },
+  {
+    "Spell Name": "Dark Transformation",
+    "Class": "Death",
+    "Charges": "13",
+    "Source": "Tenebris Shop (Favor Rank 16)",
+    "Ingame Description": "Target gains a moderate amount of Attack, Intelligence, Defense, and Speed for each minion it has."
+  },
+  {
+    "Spell Name": "Dark Whispers",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "Vertraag Shop (Favor Rank 6), Pariah Starter",
+    "Ingame Description": "Your creatures gain Arcane."
+  },
+  {
+    "Spell Name": "Death Blossom",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Tenebris Shop (Favor Rank 6)",
+    "Ingame Description": "Enemies take a small amount of damage three times."
+  },
+  {
+    "Spell Name": "Death Grip",
+    "Class": "Death",
+    "Charges": "9",
+    "Source": "Death Guild",
+    "Ingame Description": "Target takes a large amount of damage and is sent to the bottom of the Timeline."
+  },
+  {
+    "Spell Name": "Death Orb",
+    "Class": "Death",
+    "Charges": "3",
+    "Source": "False Gods (Caliban)",
+    "Ingame Description": "Enemies are afflicted with a random debuff and lose a moderate amount of stats."
+  },
+  {
+    "Spell Name": "Death Siphon",
+    "Class": "Death",
+    "Charges": "15",
+    "Source": "Erebyss Shop (Favor Rank 12)",
+    "Ingame Description": "Target ally is killed, and the caster gains 50% of its Attack, Intelligence, Defense, Speed and Current and Maximum Health."
+  },
+  {
+    "Spell Name": "Death's Call",
+    "Class": "Death",
+    "Charges": "16",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target is afflicted with Feared, and all its buffs are removed."
+  },
+  {
+    "Spell Name": "Debilitate",
+    "Class": "Death",
+    "Charges": "20",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target loses access to the extra traits it gained during battle."
+  },
+  {
+    "Spell Name": "Decay",
+    "Class": "Death",
+    "Charges": "8",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies are afflicted with Disarmed."
+  },
+  {
+    "Spell Name": "Defile",
+    "Class": "Death",
+    "Charges": "12",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies are afflicted with Poisoned and Blighted."
+  },
+  {
+    "Spell Name": "Defy Light",
+    "Class": "Death",
+    "Charges": "15",
+    "Source": "Tenebris Shop (Favor Rank 9)",
+    "Ingame Description": "Enemies' classes are changed to Death."
+  },
+  {
+    "Spell Name": "Delirium",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target is afflicted with Confused and Blind and gains Berserk and Savage."
+  },
+  {
+    "Spell Name": "Depression",
+    "Class": "Death",
+    "Charges": "12",
+    "Source": "False Gods (Althea)",
+    "Ingame Description": "Target is afflicted with a random debuff for each time it has been healed in the current battle."
+  },
+  {
+    "Spell Name": "Desecrate",
+    "Class": "Death",
+    "Charges": "13",
+    "Source": "Starter Spell",
+    "Ingame Description": "Target takes a moderate amount of damage, plus 100% more damage for each enemy of the same race fighting on the target's side."
+  },
+  {
+    "Spell Name": "Desperate Sacrifice",
+    "Class": "Death",
+    "Charges": "1",
+    "Source": "Standard Spell (Backer), Graveborn Starter",
+    "Ingame Description": "Your creatures are resurrected with 100% Health. Then, this creature is killed."
+  },
+  {
+    "Spell Name": "Devour",
+    "Class": "Death",
+    "Charges": "4",
+    "Source": "Friden Shop (Favor Rank 12)",
+    "Ingame Description": "Caster steals a large amount of Attack, Intelligence, Defense and Speed from the target."
+  },
+  {
+    "Spell Name": "Direct Orders",
+    "Class": "Death",
+    "Charges": "12",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a moderate amount of damage, plus 20% for each minion the caster has."
+  },
+  {
+    "Spell Name": "Dreadblade",
+    "Class": "Death",
+    "Charges": "9",
+    "Source": "Ariamaki Shop (Favor Rank 25)",
+    "Ingame Description": "Target takes a large amount of damage and is afflicted with Feared."
+  },
+  {
+    "Spell Name": "Dying Wish",
+    "Class": "Death",
+    "Charges": "3",
+    "Source": "Ariamaki Shop (Favor Rank 6)",
+    "Ingame Description": "Target is sent to the top of the Timeline. The caster is killed."
+  },
+  {
+    "Spell Name": "Eaten Alive",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target has a 35% chance to be killed. If this happens, the caster recovers 100% Health and Charges."
+  },
+  {
+    "Spell Name": "Enfeeble",
+    "Class": "Death",
+    "Charges": "11",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target loses a large amount of Attack."
+  },
+  {
+    "Spell Name": "Engorge",
+    "Class": "Death",
+    "Charges": "7",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains a massive amount of Maximum Health and loses a massive amount of Defense and Speed."
+  },
+  {
+    "Spell Name": "Epidemic",
+    "Class": "Death",
+    "Charges": "6",
+    "Source": "Friden Shop (Favor Rank 9)",
+    "Ingame Description": "Afflicts all enemies with a copy of all the target's debuffs."
+  },
+  {
+    "Spell Name": "Euthanasia",
+    "Class": "Death",
+    "Charges": "15",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "A random enemy has a 50% chance to be killed."
+  },
+  {
+    "Spell Name": "Evil Eye",
+    "Class": "Death",
+    "Charges": "12",
+    "Source": "Standard Spell, Witch Doctor Starter",
+    "Ingame Description": "Target takes a small amount of damage, or a massive amount of damage if they are afflicted with Cursed."
+  },
+  {
+    "Spell Name": "Fate",
+    "Class": "Death",
+    "Charges": "2",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Each creature has a 50% chance to be killed."
+  },
+  {
+    "Spell Name": "Feign Death",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "False Gods (Ancestor)",
+    "Ingame Description": "Caster's on-death effects are activated."
+  },
+  {
+    "Spell Name": "Fermented Hops",
+    "Class": "Death",
+    "Charges": "9",
+    "Source": "Gambling Dwarves",
+    "Ingame Description": "Enemies with Blighted are healed for an amount equal to 35% of their Maximum Health. Otherwise, they are afflicted with Blighted. This spell is a Booze Spell."
+  },
+  {
+    "Spell Name": "Finger of Death",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a massive amount of damage."
+  },
+  {
+    "Spell Name": "Flesh Offering",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Mortem Shop (Favor Rank 9), Bloodmage Starter",
+    "Ingame Description": "Target loses a large amount of Maximum Health, and your creatures gain 20% of that amount."
+  },
+  {
+    "Spell Name": "Flood of Darkness",
+    "Class": "Death",
+    "Charges": "16",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies with Cursed Attack their allies at random."
+  },
+  {
+    "Spell Name": "Ghostly Scimitar",
+    "Class": "Death",
+    "Charges": "1",
+    "Source": "Avatar of Friden",
+    "Ingame Description": "Target takes a devastating amount of damage which also ignores 80% of the target's Defense. This spell is an Ultimate spell."
+  },
+  {
+    "Spell Name": "Ghoul's Grip",
+    "Class": "Death",
+    "Charges": "9",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a large amount of damage and is afflicted with Snared."
+  },
+  {
+    "Spell Name": "Gore Claws",
+    "Class": "Death",
+    "Charges": "12",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a moderate amount of damage, plus 5% more damage for every 1% Health the target is missing."
+  },
+  {
+    "Spell Name": "Graft Bone",
+    "Class": "Death",
+    "Charges": "15",
+    "Source": "Erebyss Shop (Favor Rank 9), Royal Starter",
+    "Ingame Description": "Target creature takes a moderate amount of damage and gains Defense equal to 200% of the damage taken."
+  },
+  {
+    "Spell Name": "Graveyard Shift",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Your creatures gain 1 stack of Zombies."
+  },
+  {
+    "Spell Name": "Ha Ho Ha",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "False Gods (Impington)",
+    "Ingame Description": "Target is afflicted with Feared. If the target is already afflicted with Feared, it takes a massive amount of damage instead."
+  },
+  {
+    "Spell Name": "Halfway Through",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target's Health is set to 50%."
+  },
+  {
+    "Spell Name": "Harbinger's Curse",
+    "Class": "Death",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer), Defiler Starter",
+    "Ingame Description": "Target takes a moderate amount of damage and is afflicted with Weak and Vulnerable."
+  },
+  {
+    "Spell Name": "Haunt",
+    "Class": "Death",
+    "Charges": "7",
+    "Source": "Death Guild",
+    "Ingame Description": "Target takes a small amount of damage and is afflicted with Feared. If the target is already afflicted with Feared, it is sent to the bottom of the Timeline."
+  },
+  {
+    "Spell Name": "Hemorrhage",
+    "Class": "Death",
+    "Charges": "6",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes 100% of its Bleeding damage continuously. After the target takes damage, this spell has a 35% chance to end."
+  },
+  {
+    "Spell Name": "Hunger",
+    "Class": "Death",
+    "Charges": "6",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Random enemies take a large amount of damage and the caster gains a Barrier equal to 50% of the damage dealt. After each enemy takes damage, this spell has a 35% chance to end."
+  },
+  {
+    "Spell Name": "Ill Fate",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "False Gods (Althea)",
+    "Ingame Description": "Enemies with Blighted recover a moderate amount of Health."
+  },
+  {
+    "Spell Name": "Impending Doom",
+    "Class": "Death",
+    "Charges": "20",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target has a 5% chance to be killed for each turn it has taken in the current battle."
+  },
+  {
+    "Spell Name": "Indiscriminate Summoning",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer), Necromancer Starter",
+    "Ingame Description": "Your creatures gain a random minion."
+  },
+  {
+    "Spell Name": "Infinite Blades",
+    "Class": "Death",
+    "Charges": "1",
+    "Source": "Avatar of Alexandria",
+    "Ingame Description": "Enemies take a moderate amount of damage 5 times. This spell is an Ultimate Spell."
+  },
+  {
+    "Spell Name": "Intimidate",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target loses a large amount of Attack and Defense."
+  },
+  {
+    "Spell Name": "Kill Streak",
+    "Class": "Death",
+    "Charges": "4",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Casts a random damaging spell for each dead creature on the battlefield."
+  },
+  {
+    "Spell Name": "Lamentation",
+    "Class": "Death",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies are afflicted with a random debuff for each dead ally."
+  },
+  {
+    "Spell Name": "Land of the Dead",
+    "Class": "Death",
+    "Charges": "3",
+    "Source": "Death Guild",
+    "Ingame Description": "Your creatures gain Rebirth and then they are killed."
+  },
+  {
+    "Spell Name": "Living Death Lance",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Arena Shop (Rank 29)",
+    "Ingame Description": "Target takes a small amount of damage, or massive damage if the target is a Death creature. The damage is based on the caster's Attack instead of Intelligence. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Death Shield",
+    "Class": "Death",
+    "Charges": "7",
+    "Source": "Arena Shop (Rank 29)",
+    "Ingame Description": "Caster's class is changed to Death, it gains Leeching, and it gains a moderate amount of Defense. The potency is based on the caster's Defense instead of Intelligence. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Heavy Shield",
+    "Class": "Death",
+    "Charges": "4",
+    "Source": "Arena Shop (Rank 4)",
+    "Ingame Description": "Caster gains a massive amount of Defense and Shelled. The potency is based on the caster's Defense instead of Intelligence. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Helmet",
+    "Class": "Death",
+    "Charges": "4",
+    "Source": "Arena Shop (Rank 13)",
+    "Ingame Description": "Caster gains a massive amount of Maximum Health and Protected. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Mace",
+    "Class": "Death",
+    "Charges": "2",
+    "Source": "Arena Shop (Rank 42)",
+    "Ingame Description": "Target takes a devastating amount of damage. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Loveless",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "False Gods (Loid)",
+    "Ingame Description": "Enemies take damage equal to the amount of Intelligence the caster has gained in the current battle. Then, its Intelligence is set to its minimum value."
+  },
+  {
+    "Spell Name": "Memento of Defense",
+    "Class": "Death",
+    "Charges": "20",
+    "Source": "False Gods (Construct)",
+    "Ingame Description": "This spell doesn't do anything when Cast. The caster has 5% more Defense for each Charge this Spell Gem is missing."
+  },
+  {
+    "Spell Name": "Misery",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target is afflicted with Weak, Vulnerable, Feared, Cursed and Scorned."
+  },
+  {
+    "Spell Name": "Morph: Death",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain a large amount of Defense and their classes become Death until the end of battle."
+  },
+  {
+    "Spell Name": "Mouthbreathe",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "False Gods (Loid)",
+    "Ingame Description": "Caster loses a large amount of Intelligence and enemies take damage equal to 200% of this amount."
+  },
+  {
+    "Spell Name": "Murder of Crows",
+    "Class": "Death",
+    "Charges": "12",
+    "Source": "Tenebris Shop (Favor Rank 12)",
+    "Ingame Description": "Random enemies take a moderate amount of damage 3 times, plus 2 more times for each dead creature on the battlefield."
+  },
+  {
+    "Spell Name": "Necromancy",
+    "Class": "Death",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Caster gains 1 stack of Zombies for each buff it has."
+  },
+  {
+    "Spell Name": "Necromantic Armor",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain a moderate amount of Defense and Speed."
+  },
+  {
+    "Spell Name": "Necrosis",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Friden Shop (Favor Rank 16)",
+    "Ingame Description": "Enemies take a moderate amount of damage. 50% of the damage is based on the caster's Speed instead of Intelligence."
+  },
+  {
+    "Spell Name": "Night Sword",
+    "Class": "Death",
+    "Charges": "12",
+    "Source": "Alexandria Shop (Favor Rank 6)",
+    "Ingame Description": "Target takes a moderate amount of damage and the last Spell Gem the target used is Sealed. If no Spell Gem was used, one is chosen at random."
+  },
+  {
+    "Spell Name": "Nightmare",
+    "Class": "Death",
+    "Charges": "13",
+    "Source": "Starter Spell",
+    "Ingame Description": "Target takes a moderate amount of damage and is afflicted with Sleeping."
+  },
+  {
+    "Spell Name": "Parasites",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Friden Shop (Favor Rank 6)",
+    "Ingame Description": "Enemies are afflicted with Blighted and Leeching."
+  },
+  {
+    "Spell Name": "Pestilence",
+    "Class": "Death",
+    "Charges": "7",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies spread 1 of their debuffs to all other enemies."
+  },
+  {
+    "Spell Name": "Phantasm",
+    "Class": "Death",
+    "Charges": "11",
+    "Source": "Death Guild",
+    "Ingame Description": "Target takes damage equal to 10% of the Attack, Intelligence, Defense and Speed it lost in the current battle."
+  },
+  {
+    "Spell Name": "Plague",
+    "Class": "Death",
+    "Charges": "11",
+    "Source": "False Gods (Althea), Shadowbringer Starter",
+    "Ingame Description": "Target recovers a small amount of Health. This effect repeats for each enemy with Blighted."
+  },
+  {
+    "Spell Name": "Plaguebearer",
+    "Class": "Death",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Each of the target's debuffs have a 50% chance to spread to its allies."
+  },
+  {
+    "Spell Name": "Poison Gas",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Alexandria Shop (Favor Rank 12)",
+    "Ingame Description": "Enemies are afflicted with Poisoned."
+  },
+  {
+    "Spell Name": "Purgatory",
+    "Class": "Death",
+    "Charges": "20",
+    "Source": "Vertraag Shop (Favor Rank 12)",
+    "Ingame Description": "Target is sent to the bottom of the Timeline."
+  },
+  {
+    "Spell Name": "Pusplosion",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "Death Guild",
+    "Ingame Description": "Enemies take a moderate amount of damage, plus 10% more damage for each debuff each enemy has."
+  },
+  {
+    "Spell Name": "Pustule",
+    "Class": "Death",
+    "Charges": "7",
+    "Source": "False Gods (Loid)",
+    "Ingame Description": "Target takes a small amount of damage and all other enemies take damage equal to 200% of the damage dealt."
+  },
+  {
+    "Spell Name": "Putrescent Odor",
+    "Class": "Death",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies are afflicted with Poisoned, Blind, and Confused."
+  },
+  {
+    "Spell Name": "Rain of Blood",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Erebyss Shop (Favor Rank 2)",
+    "Ingame Description": "Enemies are afflicted with Bleeding."
+  },
+  {
+    "Spell Name": "Rapture",
+    "Class": "Death",
+    "Charges": "1",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a massive amount of damage and are afflicted with Weak and Vulnerable."
+  },
+  {
+    "Spell Name": "Revelation",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "False Gods (Ancestor)",
+    "Ingame Description": "Caster's on-resurrect effects are activated."
+  },
+  {
+    "Spell Name": "Riotous Rum",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Gambling Dwarves, Brewmaster",
+    "Ingame Description": "Enemies take a moderate amount of damage and are afflicted with Feared. This spell is a Booze Spell."
+  },
+  {
+    "Spell Name": "Ritual of Summoning",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target is killed, and your creatures' minions gain 3 stacks."
+  },
+  {
+    "Spell Name": "Rune of Dun",
+    "Class": "Death",
+    "Charges": "20",
+    "Source": "Rune Knight",
+    "Ingame Description": "Target takes a large amount of damage, caster gains a random minion, and the caster's on-attack effects are activated. 100% of this spell's damage is based on the caster's highest stat."
+  },
+  {
+    "Spell Name": "Scourge Chaos",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a small amount of damage, or massive damage if the target is a Chaos creature."
+  },
+  {
+    "Spell Name": "Shadow Crash",
+    "Class": "Death",
+    "Charges": "8",
+    "Source": "Ariamaki Shop (Favor Rank 16)",
+    "Ingame Description": "Enemies take damage equal to 10% of the caster's Intelligence for each time they've cast a spell in the current battle."
+  },
+  {
+    "Spell Name": "Shadow Infusion",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Vertraag Shop (Favor Rank 9)",
+    "Ingame Description": "Target gains a large amount of Attack and Speed."
+  },
+  {
+    "Spell Name": "Slaughter",
+    "Class": "Death",
+    "Charges": "3",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Caster kills its allies."
+  },
+  {
+    "Spell Name": "Soul Harvest",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "Alexandria Shop (Favor Rank 9)",
+    "Ingame Description": "Caster steals a small amount of Intelligence from all enemies."
+  },
+  {
+    "Spell Name": "Soul Rage",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Your creatures gain Leeching and Splashing."
+  },
+  {
+    "Spell Name": "Soul Sacrifice",
+    "Class": "Death",
+    "Charges": "15",
+    "Source": "Alexandria Shop (Favor Rank 16)",
+    "Ingame Description": "Your creatures' Health is set to 70%."
+  },
+  {
+    "Spell Name": "Spirit Offering",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Mortem Shop (Favor Rank 25)",
+    "Ingame Description": "Target loses a large amount of Intelligence, and your creatures gain 20% of that amount."
+  },
+  {
+    "Spell Name": "Spreading Plague",
+    "Class": "Death",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target's debuffs are removed and given to enemies at random."
+  },
+  {
+    "Spell Name": "Sudden Death",
+    "Class": "Death",
+    "Charges": "7",
+    "Source": "Vertraag Shop (Favor Rank 16)",
+    "Ingame Description": "Target ally is killed, and enemies take damage equal to 25% of its Current Health."
+  },
+  {
+    "Spell Name": "Summon Conquest",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Caster gains Conquest."
+  },
+  {
+    "Spell Name": "Summon Death",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Caster gains Death."
+  },
+  {
+    "Spell Name": "Summon Famine",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Caster gains Famine."
+  },
+  {
+    "Spell Name": "Summon Horde",
+    "Class": "Death",
+    "Charges": "3",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Your creatures gain a random minion for each creature fighting on your side that belongs to the same class as the caster."
+  },
+  {
+    "Spell Name": "Summon Unstable Horror",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Caster gains 1 stack of Unstable Horror."
+  },
+  {
+    "Spell Name": "Summon War",
+    "Class": "Death",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Caster gains War."
+  },
+  {
+    "Spell Name": "Summon Writheling",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Caster gains 1 stack of Writhelings."
+  },
+  {
+    "Spell Name": "Summon Zombie",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Caster gains 1 stack of Zombies."
+  },
+  {
+    "Spell Name": "Supplicant Sacrifice",
+    "Class": "Death",
+    "Charges": "3",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Caster is killed, and your creatures gain 3 random minions."
+  },
+  {
+    "Spell Name": "Terror",
+    "Class": "Death",
+    "Charges": "9",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target loses a large amount of Defense and is afflicted with Feared."
+  },
+  {
+    "Spell Name": "Timely Demise",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Vertraag Shop (Favor Rank 2)",
+    "Ingame Description": "Enemies take a small amount of damage. The damage is increased based on the duration of the current battle."
+  },
+  {
+    "Spell Name": "Ultimate Odor",
+    "Class": "Death",
+    "Charges": "7",
+    "Source": "False Gods (Loid)",
+    "Ingame Description": "Enemies take a small amount of damage. This damage repeats for each debuff the caster has."
+  },
+  {
+    "Spell Name": "Unholy Augmentation",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain Repelling."
+  },
+  {
+    "Spell Name": "Unholy Confessions",
+    "Class": "Death",
+    "Charges": "11",
+    "Source": "Erebyss Shop (Favor Rank 6)",
+    "Ingame Description": "Your creatures gain a moderate amount of Intelligence."
+  },
+  {
+    "Spell Name": "Unholy Frenzy",
+    "Class": "Death",
+    "Charges": "13",
+    "Source": "Erebyss Shop (Favor Rank 16), Animator Starter",
+    "Ingame Description": "Your creatures gain Berserk."
+  },
+  {
+    "Spell Name": "Unholy Rage",
+    "Class": "Death",
+    "Charges": "13",
+    "Source": "Death Guild",
+    "Ingame Description": "Target's Defense and Speed are added to their Attack and Intelligence. Then, their Defense and Speed are set to their minimum values."
+  },
+  {
+    "Spell Name": "Unrighteous Fire",
+    "Class": "Death",
+    "Charges": "3",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Caster's Health is set to 1, and enemies take damage equal to 30% of the amount of Health removed."
+  },
+  {
+    "Spell Name": "Unstable Summoning",
+    "Class": "Death",
+    "Charges": "15",
+    "Source": "Ariamaki Shop (Favor Rank 2)",
+    "Ingame Description": "Target gains a random minion."
+  },
+  {
+    "Spell Name": "Vampirism",
+    "Class": "Death",
+    "Charges": "14",
+    "Source": "Starter Spell",
+    "Ingame Description": "Your creatures gain Leeching."
+  },
+  {
+    "Spell Name": "Virus",
+    "Class": "Death",
+    "Charges": "12",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take damage equal to 2 turns of their Poisoned debuff."
+  },
+  {
+    "Spell Name": "Vitality Explosion",
+    "Class": "Death",
+    "Charges": "25",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes damage equal to the amount of Maximum Health it has greater than its base amount."
+  },
+  {
+    "Spell Name": "Vivacious Vodka",
+    "Class": "Death",
+    "Charges": "23",
+    "Source": "Gambling Dwarves",
+    "Ingame Description": "One of your creatures is moved to the top of the Timeline. This spell can only ever target 1 creature and can only be Cast once at a time. This spell is a Booze Spell."
+  },
+  {
+    "Spell Name": "Voodoo",
+    "Class": "Death",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Caster takes a small, moderate, large, massive or devastating amount of damage. Enemies take this amount of damage as well."
+  },
+  {
+    "Spell Name": "Wormrot",
+    "Class": "Death",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies are afflicted with Weak and Vulnerable."
+  },
+  {
+    "Spell Name": "Zombie Clap",
+    "Class": "Death",
+    "Charges": "8",
+    "Source": "Death Guild",
+    "Ingame Description": "Target takes a large amount of damage and the caster gains 3 stacks of Zombies."
+  },
+  {
+    "Spell Name": "Afterlife",
+    "Class": "Life",
+    "Charges": "1",
+    "Source": "Avatar of Perdition",
+    "Ingame Description": "Your creatures' on-resurrect and on-death effects activate. This spell is an Ultimate spell."
+  },
+  {
+    "Spell Name": "Ancient Prayer",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Yseros Shop (Favor Rank 6)",
+    "Ingame Description": "Your creatures gain copies of all the target's buffs."
+  },
+  {
+    "Spell Name": "Archangel's Blessing",
+    "Class": "Life",
+    "Charges": "11",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Your creatures recover 30% Health and gain a random buff."
+  },
+  {
+    "Spell Name": "Ascension",
+    "Class": "Life",
+    "Charges": "20",
+    "Source": "Shallan Shop (Favor Rank 2)",
+    "Ingame Description": "Caster gains a random trait. This spell cannot be cast manually, but has a 50% chance to cast when the caster Defends or Provokes."
+  },
+  {
+    "Spell Name": "Atonement",
+    "Class": "Life",
+    "Charges": "5",
+    "Source": "Lister Shop (Favor Rank 12)",
+    "Ingame Description": "Enemies lose a large amount of Speed and Defense."
+  },
+  {
+    "Spell Name": "Benediction",
+    "Class": "Life",
+    "Charges": "4",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures recover a massive amount of Health."
+  },
+  {
+    "Spell Name": "Blistering Radiance",
+    "Class": "Life",
+    "Charges": "3",
+    "Source": "Shallan Shop (Favor Rank 25)",
+    "Ingame Description": "Enemies take a large amount of damage and are afflicted with Scorned."
+  },
+  {
+    "Spell Name": "Breath of Life",
+    "Class": "Life",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target recovers a massive amount of Health, and is resurrected if it's dead."
+  },
+  {
+    "Spell Name": "Charity",
+    "Class": "Life",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Each of the target's buffs have a 50% chance to spread to its allies."
+  },
+  {
+    "Spell Name": "Charm of Life",
+    "Class": "Life",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain a moderate amount of Attack, Speed, and Maximum Health."
+  },
+  {
+    "Spell Name": "Chastise",
+    "Class": "Life",
+    "Charges": "35",
+    "Source": "Starter Spell",
+    "Ingame Description": "Target takes a small amount of damage."
+  },
+  {
+    "Spell Name": "Cloud Beam",
+    "Class": "Life",
+    "Charges": "20",
+    "Source": "Standard Spell",
+    "Ingame Description": "Random enemies take a small amount of damage continuously. After each enemy takes damage, the spell has a 20% chance to end."
+  },
+  {
+    "Spell Name": "Colorwave (Life)",
+    "Class": "Life",
+    "Charges": "1",
+    "Source": "Spellweaver",
+    "Ingame Description": "Your creatures gain 5 random buffs, plus 1 random buff for each Life Infusion you have."
+  },
+  {
+    "Spell Name": "Condemn Light",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Muse Shop (Favor Rank 6)",
+    "Ingame Description": "Enemies' classes are changed to Life."
+  },
+  {
+    "Spell Name": "Consecration",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a small amount of damage and the caster recovers a large amount of Health."
+  },
+  {
+    "Spell Name": "Convoke the Spirits",
+    "Class": "Life",
+    "Charges": "9",
+    "Source": "Life Guild",
+    "Ingame Description": "Target takes a large amount of damage. The spell's class is considered to be whatever class the target is weak against."
+  },
+  {
+    "Spell Name": "Cosmic Ripple",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Lister Shop (Favor Rank 17), Cleric Starter",
+    "Ingame Description": "Target takes a moderate amount of damage if it is an enemy, or is healed for a moderate amount of Health if it is an ally."
+  },
+  {
+    "Spell Name": "Covenant",
+    "Class": "Life",
+    "Charges": "20",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains Rebirth."
+  },
+  {
+    "Spell Name": "Crackle",
+    "Class": "Life",
+    "Charges": "13",
+    "Source": "Lister Shop (Favor Rank 2)",
+    "Ingame Description": "Target takes a moderate amount of damage and is afflicted with Confused."
+  },
+  {
+    "Spell Name": "Dark Seraphim",
+    "Class": "Life",
+    "Charges": "3",
+    "Source": "Life Guild",
+    "Ingame Description": "Target recovers Health equal to 100% of its missing Health and gains a massive amount of Attack, Intelligence and Speed."
+  },
+  {
+    "Spell Name": "Dark Tranquility",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "If the target has less than 85% Health, its Health is inverted."
+  },
+  {
+    "Spell Name": "Desperate Bid",
+    "Class": "Life",
+    "Charges": "20",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "A random ally and a random enemy are resurrected with a random amount of Health."
+  },
+  {
+    "Spell Name": "Determination",
+    "Class": "Life",
+    "Charges": "3",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain a large amount of Defense and Maximum Health."
+  },
+  {
+    "Spell Name": "Divine Aegis",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Surathli Shop (Favor Rank 2)",
+    "Ingame Description": "Caster gains a Barrier that absorbs a moderate amount of damage."
+  },
+  {
+    "Spell Name": "Divinity",
+    "Class": "Life",
+    "Charges": "3",
+    "Source": "Standard Spell",
+    "Ingame Description": "All creatures are resurrected, recover 100% Health, and their debuffs ar removed. The Timeline is shuffled."
+  },
+  {
+    "Spell Name": "Dream",
+    "Class": "Life",
+    "Charges": "6",
+    "Source": "False Gods (Hydranox)",
+    "Ingame Description": "Caster Casts one of its spells from each class."
+  },
+  {
+    "Spell Name": "Enlightenment",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Perdition Shop (Favor Rank 9)",
+    "Ingame Description": "Target's Attack is added to its Intelligence. Then, its Attack is set to its minimum value."
+  },
+  {
+    "Spell Name": "Epiphany",
+    "Class": "Life",
+    "Charges": "7",
+    "Source": "Yseros Shop (Favor Rank 2)",
+    "Ingame Description": "Your creatures' races are changed to match that of the caster for the rest of the battle."
+  },
+  {
+    "Spell Name": "Equality",
+    "Class": "Life",
+    "Charges": "20",
+    "Source": "Perdition Shop (Favor Rank 16)",
+    "Ingame Description": "Target's stats (other than Health) are averaged."
+  },
+  {
+    "Spell Name": "Evangelism",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Standard Spell, Paladin Starter",
+    "Ingame Description": "Target gains Mending, Agile and Warded."
+  },
+  {
+    "Spell Name": "Fae Fire",
+    "Class": "Life",
+    "Charges": "1",
+    "Source": "Avatar of Shallan",
+    "Ingame Description": "Enemies lose a devastating amount of all stats, and their buffs and minions are removed. This spell is an Ultimate Spell."
+  },
+  {
+    "Spell Name": "Falling Feathers",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Random enemies take a moderate amount of damage continuously. After each enemy takes damage, the spell has a 25% chance to end."
+  },
+  {
+    "Spell Name": "False Beliefs",
+    "Class": "Life",
+    "Charges": "11",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take damage equal to 100% of the Health they've recovered in the current battle."
+  },
+  {
+    "Spell Name": "Fist of Heavens",
+    "Class": "Life",
+    "Charges": "5",
+    "Source": "Shallan Shop (Favor Rank 9)",
+    "Ingame Description": "Target takes a massive amount of damage."
+  },
+  {
+    "Spell Name": "Flourish",
+    "Class": "Life",
+    "Charges": "5",
+    "Source": "Lister Shop (Favor Rank 6)",
+    "Ingame Description": "Your creatures are resurrected with a small amount of Health."
+  },
+  {
+    "Spell Name": "Fortify",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Life Guild",
+    "Ingame Description": "Your creatures' Barrier buffs are set to their maximum strength. If they don't have a Barrier, they gain Shelled."
+  },
+  {
+    "Spell Name": "Fracture",
+    "Class": "Life",
+    "Charges": "11",
+    "Source": "Life Guild",
+    "Ingame Description": "Target's Barrier explodes and is removed, dealing damage to enemies equal to 200% of the strength of the Barrier."
+  },
+  {
+    "Spell Name": "Genesis",
+    "Class": "Life",
+    "Charges": "2",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Your allies are killed, and your dead allies are resurrected with 100% Health and Charges. This spell does not work on Ultimate Spells."
+  },
+  {
+    "Spell Name": "Glory",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Muse Shop (Favor Rank 12)",
+    "Ingame Description": "Each of the caster's other, permanent Spell Gems have a 30% chance to be cast. Maximum of 3 spells can be Cast."
+  },
+  {
+    "Spell Name": "Godly Gin",
+    "Class": "Life",
+    "Charges": "4",
+    "Source": "Gambling Dwarves",
+    "Ingame Description": "Your creatures gain Immune. This spell is a Booze Spell."
+  },
+  {
+    "Spell Name": "Guardian Force",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Perdition Shop (Favor Rank 12)",
+    "Ingame Description": "Your creatures Defend."
+  },
+  {
+    "Spell Name": "Healing",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target recovers a moderate amount of Health."
+  },
+  {
+    "Spell Name": "Heaven's Fury",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Shallan Shop (Favor Rank 6)",
+    "Ingame Description": "Target loses a large amount of Maximum Health."
+  },
+  {
+    "Spell Name": "Heaven's Thunder",
+    "Class": "Life",
+    "Charges": "12",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a moderate amount of damage and is afflicted with Silenced."
+  },
+  {
+    "Spell Name": "Hero's Blessing",
+    "Class": "Life",
+    "Charges": "13",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Removes a debuff from your creatures. This spell cannot be cast manually, but has a 35% chance to cast when the caster Attacks."
+  },
+  {
+    "Spell Name": "Hierarchy",
+    "Class": "Life",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "All creatures Attack a random creature on the opposite side. Each creature deals 25% more damage for each creature below it on the Timeline."
+  },
+  {
+    "Spell Name": "Holy Armor",
+    "Class": "Life",
+    "Charges": "7",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains a Barrier that absorbs a massive amount of damage."
+  },
+  {
+    "Spell Name": "Holy Blast",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target's Health is set to 25%, and it gains a Barrier that absorbs damage equal to 200% of its Maximum Health."
+  },
+  {
+    "Spell Name": "Holy Bulwark",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Starter Spell",
+    "Ingame Description": "Your creatures gain a Barrier that absorbs a moderate amount of damage."
+  },
+  {
+    "Spell Name": "Holy Enchantment",
+    "Class": "Life",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target recovers a large amount of Health and gains a Barrier that absorbs damage equal to the amount of Health recovered."
+  },
+  {
+    "Spell Name": "Holy Explosion",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a moderate amount of damage."
+  },
+  {
+    "Spell Name": "Holy Fire",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Surathli Shop (Favor Rank 6)",
+    "Ingame Description": "Enemies take damage equal to 30% of the caster's Barrier strength."
+  },
+  {
+    "Spell Name": "Holy Nova",
+    "Class": "Life",
+    "Charges": "7",
+    "Source": "Surathli Shop (Favor Rank 9)",
+    "Ingame Description": "Enemies take a moderate amount of damage, and your creatures recover a moderate amount of Health."
+  },
+  {
+    "Spell Name": "Holy Protection",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain Shelled."
+  },
+  {
+    "Spell Name": "Holy Shock",
+    "Class": "Life",
+    "Charges": "13",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a moderate amount of damage. This spell casts a number of times equal to the number of enemy creatures that belong to the target's class."
+  },
+  {
+    "Spell Name": "Holy Shrine",
+    "Class": "Life",
+    "Charges": "17",
+    "Source": "Life Guild, Warden Starter",
+    "Ingame Description": "Your creatures gain a random buff."
+  },
+  {
+    "Spell Name": "Holy Smite",
+    "Class": "Life",
+    "Charges": "20",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a small amount of damage and the caster recovers a small amount of Health."
+  },
+  {
+    "Spell Name": "Holy Spear",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Surathli Shop (Favor Rank 12)",
+    "Ingame Description": "Target takes damage equal to 50% of the caster's Barrier strength."
+  },
+  {
+    "Spell Name": "Holy Strike",
+    "Class": "Life",
+    "Charges": "1",
+    "Source": "Avatar of Surathli",
+    "Ingame Description": "Target takes a devastating amount of damage, and your creatures gain a Barrier that absorbs damage equal to 100% of the damage dealt. This spell is an Ultimate spell."
+  },
+  {
+    "Spell Name": "Holy Water",
+    "Class": "Life",
+    "Charges": "7",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "A random debuff is removed from random allies continuously. After each ally loses a debuff, this spell has a 50% chance to end."
+  },
+  {
+    "Spell Name": "Humility",
+    "Class": "Life",
+    "Charges": "14",
+    "Source": "Perdition Shop (Favor Rank 25), Deprived Starter",
+    "Ingame Description": "Target's stats become equal to its lowest stat."
+  },
+  {
+    "Spell Name": "Ignus Fatuus",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a moderate amount of damage, plus 25% more damage for each Ethereal Spell Gem it has."
+  },
+  {
+    "Spell Name": "Illusion",
+    "Class": "Life",
+    "Charges": "1",
+    "Source": "Avatar of Yseros",
+    "Ingame Description": "Your creatures gain an Illusion. This spell is an Ultimate Spell."
+  },
+  {
+    "Spell Name": "Inner Strength",
+    "Class": "Life",
+    "Charges": "7",
+    "Source": "Surathli Shop (Favor Rank 16)",
+    "Ingame Description": "Your creatures gain a massive amount of Attack, Intelligence, Speed, or Defense. The stat is chosen at random."
+  },
+  {
+    "Spell Name": "Innervate",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target recovers a small amount of Health, or a massive amount if it has Mending."
+  },
+  {
+    "Spell Name": "Inoculate",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target is healed for a massive amount of Health and is afflicted with Poisoned."
+  },
+  {
+    "Spell Name": "Judgment",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Yseros Shop (Favor Rank 12)",
+    "Ingame Description": "Enemies are killed if they have less than 33% Health."
+  },
+  {
+    "Spell Name": "Judgment Blade",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Life Guild",
+    "Ingame Description": "Target takes a small amount of damage, plus 10% damage for each time it has Attacked or Cast a spell in the current battle."
+  },
+  {
+    "Spell Name": "Life Orb",
+    "Class": "Life",
+    "Charges": "3",
+    "Source": "False Gods (Caliban)",
+    "Ingame Description": "Your dead creatures are resurrected with a massive amount of Health. Your living creatures are healed for a massive amount of Health."
+  },
+  {
+    "Spell Name": "Lifeline",
+    "Class": "Life",
+    "Charges": "8",
+    "Source": "Muse Shop (Favor Rank 2)",
+    "Ingame Description": "Caster recovers 100% Health."
+  },
+  {
+    "Spell Name": "Lionheart",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Perdition Shop (Favor Rank 6)",
+    "Ingame Description": "Target gains a large amount of Attack and Defense."
+  },
+  {
+    "Spell Name": "Living Armor",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Arena Shop (Rank 49)",
+    "Ingame Description": "Caster gains a Barrier that absorbs damage equal to 100% of its Maximum Health. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Life Lance",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Arena Shop (Rank 32)",
+    "Ingame Description": "Target takes a small amount of damage, or massive damage if the target is a Life creature. The damage is based on the caster's Attack instead of Intelligence. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Life Shield",
+    "Class": "Life",
+    "Charges": "7",
+    "Source": "Arena Shop (Rank 32)",
+    "Ingame Description": "Caster's class is changed to Life, it gains Protected, and it gains a moderate amount of Defense. The potency is based on the caster's Defense instead of Intelligence. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Necklace",
+    "Class": "Life",
+    "Charges": "6",
+    "Source": "Arena Shop (Rank 14)",
+    "Ingame Description": "Your creatures' Spell Gems are unsealed and their Silenced debuffs are removed. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Ribbon",
+    "Class": "Life",
+    "Charges": "4",
+    "Source": "Arena Shop (Rank 18)",
+    "Ingame Description": "Your creatures gain Immune. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Lucious Lager",
+    "Class": "Life",
+    "Charges": "12",
+    "Source": "Gambling Dwarves",
+    "Ingame Description": "Enemies are afflicted with Sleeping and Blind. This spell is a Booze Spell."
+  },
+  {
+    "Spell Name": "Major Healing",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target recovers a large amount of Health."
+  },
+  {
+    "Spell Name": "Major Resurrection",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target is resurrected with a large amount of Health."
+  },
+  {
+    "Spell Name": "Minor Healing",
+    "Class": "Life",
+    "Charges": "20",
+    "Source": "Starter Spell",
+    "Ingame Description": "Target recovers a small amount of Health."
+  },
+  {
+    "Spell Name": "Minor Resurrection",
+    "Class": "Life",
+    "Charges": "20",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target is resurrected with a small amount of Health."
+  },
+  {
+    "Spell Name": "Morph: Life",
+    "Class": "Life",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain a large amount of Maximum Health and their classes become Life until the end of battle."
+  },
+  {
+    "Spell Name": "Peace",
+    "Class": "Life",
+    "Charges": "1",
+    "Source": "Avatar of Lister",
+    "Ingame Description": "Enemies' Attack or Intelligence (whichever is highest) is set to its minimum value. Then, afflict each enemy with Scorned or Silenced, depending on whether their Attack or Intelligence was unaffected. This spell is an Ultimate Spell."
+  },
+  {
+    "Spell Name": "Phoenix Burst",
+    "Class": "Life",
+    "Charges": "6",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a small amount of damage, or a massive amount of damage if the caster has at least 1 dead enemy. Then, a random enemy is resurrected with 50% Health."
+  },
+  {
+    "Spell Name": "Phoenix Down",
+    "Class": "Life",
+    "Charges": "1",
+    "Source": "Life Guild",
+    "Ingame Description": "Your creatures are resurrected with a moderate amount of Health and gain a random buff."
+  },
+  {
+    "Spell Name": "Praise the Sun",
+    "Class": "Life",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "All creatures recover a large amount of Health."
+  },
+  {
+    "Spell Name": "Prosperity",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "False Gods (Althea)",
+    "Ingame Description": "Target gains 50% Current Health. This does not count as a healing effect."
+  },
+  {
+    "Spell Name": "Protect",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains Protected and Warded. Then, it Defends."
+  },
+  {
+    "Spell Name": "Pure Love",
+    "Class": "Life",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Alll creatures gain a massive amount of Maximum Health."
+  },
+  {
+    "Spell Name": "Reckoning",
+    "Class": "Life",
+    "Charges": "11",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a large amount of damage, modified by 1% to 300%, chosen randomly."
+  },
+  {
+    "Spell Name": "Reincarnation",
+    "Class": "Life",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target is killed, then resurrected with a massive amount of Health."
+  },
+  {
+    "Spell Name": "Relight",
+    "Class": "Life",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Caster is killed, and your other creatures gain Rebirth."
+  },
+  {
+    "Spell Name": "Requiem",
+    "Class": "Life",
+    "Charges": "3",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures are resurrected with a moderate amount of Health."
+  },
+  {
+    "Spell Name": "Resplendence",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a small amount of damage, your creatures recover a small amount of Health, and your creatures gain a small amount of Maximum Health."
+  },
+  {
+    "Spell Name": "Resurrection",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target is resurrected with a moderate amount of Health."
+  },
+  {
+    "Spell Name": "Righteous Storm",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Perdition Shop (Favor Rank 2)",
+    "Ingame Description": "Enemies take a small amount of damage and lose a small amount of Attack."
+  },
+  {
+    "Spell Name": "Rune of Lua",
+    "Class": "Life",
+    "Charges": "20",
+    "Source": "Rune Knight",
+    "Ingame Description": "Target takes a large amount of damage, caster recovers Health equal to 50% of the damage dealt, and the caster's on-attack effects are activated. 100% of this spell's damage is based on the caster's highest stat."
+  },
+  {
+    "Spell Name": "Sacred Ground",
+    "Class": "Life",
+    "Charges": "5",
+    "Source": "Yseros Shop (Favor Rank 16)",
+    "Ingame Description": "All creatures are afflicted with Scorned."
+  },
+  {
+    "Spell Name": "Sacrifice to the Light",
+    "Class": "Life",
+    "Charges": "1",
+    "Source": "Shallan Shop (Favor Rank 16)",
+    "Ingame Description": "When the caster dies, it resurrects with 100% Health. This spell cannot be cast manually."
+  },
+  {
+    "Spell Name": "Saint's Touch",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "False Gods (Althea)",
+    "Ingame Description": "Target gains a large amount of its highest stat if it's an ally, or loses a large amount of its highest stat if it's an enemy."
+  },
+  {
+    "Spell Name": "Sanctuary",
+    "Class": "Life",
+    "Charges": "7",
+    "Source": "Life Guild",
+    "Ingame Description": "Your creatures gain Shelled, Mending, and Repelling."
+  },
+  {
+    "Spell Name": "Saving Grace",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Caster's debuffs are removed and it gains Shelled. This spell cannot be cast manually, but has a 100% chance to cast when this creature takes damage that exceeds 25% of its Maximum Health."
+  },
+  {
+    "Spell Name": "Schism",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a moderate amount of damage. This spell casts a number of times equal to the number of times your creatures have resurrected in the current battle."
+  },
+  {
+    "Spell Name": "Scourge Death",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a small amount of damage, or massive damage if the target is a Death creature."
+  },
+  {
+    "Spell Name": "Sensual Cider",
+    "Class": "Life",
+    "Charges": "8",
+    "Source": "Gambling Dwarves",
+    "Ingame Description": "Your creatures recover a large amount of Health. This spell is a Booze Spell."
+  },
+  {
+    "Spell Name": "Serendipity",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain Savage and Agile."
+  },
+  {
+    "Spell Name": "Silver Lining",
+    "Class": "Life",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Your creatures gain a random buff for each dead ally."
+  },
+  {
+    "Spell Name": "Spectral Crash",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a moderate amount of damage, plus 100% more damage if the caster has Savage."
+  },
+  {
+    "Spell Name": "Spirit Breaker",
+    "Class": "Life",
+    "Charges": "20",
+    "Source": "Lister Shop (Favor Rank 9), Dreamshade Starter",
+    "Ingame Description": "Target takes a small amount of damage, plus 50% more damage for each turn it has taken in the current battle."
+  },
+  {
+    "Spell Name": "Star Blast",
+    "Class": "Life",
+    "Charges": "20",
+    "Source": "Life Guild",
+    "Ingame Description": "Target takes a small amount of damage, plus 10% damage for each Charge this Spell Gem is missing."
+  },
+  {
+    "Spell Name": "Star Pact",
+    "Class": "Life",
+    "Charges": "3",
+    "Source": "Muse Shop (Favor Rank 25)",
+    "Ingame Description": "Enemies take a massive amount of damage, plus 10% damage for each buff this creature has."
+  },
+  {
+    "Spell Name": "Starfire",
+    "Class": "Life",
+    "Charges": "5",
+    "Source": "Muse Shop (Favor Rank 16)",
+    "Ingame Description": "Enemies take a moderate amount of damage and are afflicted with either Scorned or Silenced."
+  },
+  {
+    "Spell Name": "Stasis Sword",
+    "Class": "Life",
+    "Charges": "8",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a large amount of damage and is afflicted with Stone."
+  },
+  {
+    "Spell Name": "Stellar Flare",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a small amount of damage, plus 10% more damage for each time the caster has Defended or Provoked in the current battle."
+  },
+  {
+    "Spell Name": "Stubborn Will",
+    "Class": "Life",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target recovers a small amount of Health for each debuff it has (up to 5)."
+  },
+  {
+    "Spell Name": "Supremacy",
+    "Class": "Life",
+    "Charges": "3",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies have a 1% chance to be killed for every 1% Health they're missing."
+  },
+  {
+    "Spell Name": "Thoughts and Prayers",
+    "Class": "Life",
+    "Charges": "15",
+    "Source": "Shallan Shop (Favor Rank 12)",
+    "Ingame Description": "This spell casts three additional times, but doesn't do anything."
+  },
+  {
+    "Spell Name": "Transcendence",
+    "Class": "Life",
+    "Charges": "25",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains a random trait that belongs to a creature from its race."
+  },
+  {
+    "Spell Name": "True Light",
+    "Class": "Life",
+    "Charges": "3",
+    "Source": "Muse Shop (Favor Rank 9)",
+    "Ingame Description": "Your creatures gain a large amount of Defense, and enemies lose a large amount of Defense."
+  },
+  {
+    "Spell Name": "Utopia",
+    "Class": "Life",
+    "Charges": "1",
+    "Source": "Life Guild",
+    "Ingame Description": "All creatures recover Health equal to 100% of the amount they're missing."
+  },
+  {
+    "Spell Name": "White Magic",
+    "Class": "Life",
+    "Charges": "6",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Random allies gain a random buff continuously. After each ally gains a buff, this spell has a 50% chance to end."
+  },
+  {
+    "Spell Name": "Words of Encouragement",
+    "Class": "Life",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target recovers a small amount of Health 3 times."
+  },
+  {
+    "Spell Name": "Work of Art",
+    "Class": "Life",
+    "Charges": "1",
+    "Source": "Avatar of Muse",
+    "Ingame Description": "Your creatures gain an army of minions. This spell does not activate on-minion effects. This spell is an Ultimate Spell."
+  },
+  {
+    "Spell Name": "Zephyr",
+    "Class": "Life",
+    "Charges": "10",
+    "Source": "Yseros Shop (Favor Rank 9)",
+    "Ingame Description": "Your creatures recover a moderate amount of Health, plus 25% more healing for each Life creature fighting on your side."
+  },
+  {
+    "Spell Name": "Abundance",
+    "Class": "Nature",
+    "Charges": "12",
+    "Source": "Standard Spell, Grovetender Starter",
+    "Ingame Description": "Your creatures recover a small amount of Health and gain a small amount of Attack, Intelligence, Defense, and Speed."
+  },
+  {
+    "Spell Name": "Angry Orchard",
+    "Class": "Nature",
+    "Charges": "2",
+    "Source": "Nature Guild",
+    "Ingame Description": "Enemies take a moderate amount of damage 4 times."
+  },
+  {
+    "Spell Name": "Antidote",
+    "Class": "Nature",
+    "Charges": "17",
+    "Source": "Starter Spell",
+    "Ingame Description": "The duration of your creatures' debuffs is reduced by 1 turn, and they recover a small amount of Health for each debuff."
+  },
+  {
+    "Spell Name": "Avalanche",
+    "Class": "Nature",
+    "Charges": "1",
+    "Source": "Avatar of Torun",
+    "Ingame Description": "Enemies take a devastating amount of damage and are sent to the bottom of the Timeline. This spell is an Ultimate spell."
+  },
+  {
+    "Spell Name": "Boulder",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Meraxis Shop (Favor Rank 16)",
+    "Ingame Description": "Target takes a massive amount of damage."
+  },
+  {
+    "Spell Name": "Boulder Crush",
+    "Class": "Nature",
+    "Charges": "6",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a massive amount of damage and has a 50% chance to be afflicted with each of Bleeding, Confused, Weak and Vulnerable."
+  },
+  {
+    "Spell Name": "Brethren",
+    "Class": "Nature",
+    "Charges": "8",
+    "Source": "False Gods (Impington)",
+    "Ingame Description": "Your other creatures that belong to the caster's race Attack a random enemy."
+  },
+  {
+    "Spell Name": "Call Help",
+    "Class": "Nature",
+    "Charges": "11",
+    "Source": "False Gods (Impington)",
+    "Ingame Description": "Your creatures' minions gain 1 stack."
+  },
+  {
+    "Spell Name": "Camouflage",
+    "Class": "Nature",
+    "Charges": "20",
+    "Source": "Standard Spell, Tribalist Starter",
+    "Ingame Description": "Your creatures' classes are changed to match that of the caster's class."
+  },
+  {
+    "Spell Name": "Chain Lightning",
+    "Class": "Nature",
+    "Charges": "7",
+    "Source": "Standard Spell",
+    "Ingame Description": "Deals a large amount of damage ot the target, then bounces to each of the target's allies at random. The damage is reduced by 15% for each bounce."
+  },
+  {
+    "Spell Name": "Cherub's Missile",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target is afflicted with Poisoned and Sleeping, and enemies adjacent to the target are afflicted with a random debuff."
+  },
+  {
+    "Spell Name": "Chrysalis",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target gains a massive amount of Defense and is sent to the bottom of the Timeline."
+  },
+  {
+    "Spell Name": "Colorwave (Nature)",
+    "Class": "Nature",
+    "Charges": "1",
+    "Source": "Spellweaver",
+    "Ingame Description": "Your creatures gain a large amount of stats, plus 50% more stats for each Nature Infusion you have."
+  },
+  {
+    "Spell Name": "Compulsion",
+    "Class": "Nature",
+    "Charges": "16",
+    "Source": "Standard Spell (Backer), Mermaid Starter",
+    "Ingame Description": "Target is afflicted with Mania and the caster recovers a small amount of Health."
+  },
+  {
+    "Spell Name": "Concussive Hailstorm",
+    "Class": "Nature",
+    "Charges": "16",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a large amount of damage and are afflicted with Confused or Frozen."
+  },
+  {
+    "Spell Name": "Constriction",
+    "Class": "Nature",
+    "Charges": "17",
+    "Source": "Starter Spell",
+    "Ingame Description": "Target is afflicted with Weak and Snared."
+  },
+  {
+    "Spell Name": "Cross-Pollination",
+    "Class": "Nature",
+    "Charges": "3",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Your creatures' classes are changed to Nature and they gain a large amount of the caster's highest stat."
+  },
+  {
+    "Spell Name": "Cruelty of the Wild",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies are afflicted with Blighted. If they are already afflicted with this debuff, they instead recover a moderate amount of Health."
+  },
+  {
+    "Spell Name": "Crushing Impact",
+    "Class": "Nature",
+    "Charges": "13",
+    "Source": "Standard Spell",
+    "Ingame Description": "Creatures to the left and right of the target Attack the target."
+  },
+  {
+    "Spell Name": "Curse of the Swarm",
+    "Class": "Nature",
+    "Charges": "2",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies are afflicted with a random debuff for each different class of creature fighting on your side."
+  },
+  {
+    "Spell Name": "Cyclone Strike",
+    "Class": "Nature",
+    "Charges": "11",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target and all enemies take a devastating amount of damage. The damage is split amongst all enemies."
+  },
+  {
+    "Spell Name": "Disintegrating Arrow",
+    "Class": "Nature",
+    "Charges": "3",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a moderate amount of damage. If this spell kills the target, it cannot be resurrected for the rest of the battle. 100% of this damage is based on the caster's Speed instead of Intelligence."
+  },
+  {
+    "Spell Name": "Dispelling Dervish",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a moderate amount of damage and its buffs are removed."
+  },
+  {
+    "Spell Name": "Divulging Bark",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Your creatures gain 1 stack of Dire Wolves."
+  },
+  {
+    "Spell Name": "Dogpile",
+    "Class": "Nature",
+    "Charges": "9",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a moderate amount of damage, plus 5% damage for each stack of minions the caster has."
+  },
+  {
+    "Spell Name": "Double Strike",
+    "Class": "Nature",
+    "Charges": "8",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a moderate amount of damage twice. If the caster has Proficient, this spell is cast an additional time and then the Proficient buff is removed."
+  },
+  {
+    "Spell Name": "Dust Cloak",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "Reclusa Shop (Favor Rank 25)",
+    "Ingame Description": "Your creatures gain Invisible and are sent to the bottom of the Timeline."
+  },
+  {
+    "Spell Name": "Earth Enchantment",
+    "Class": "Nature",
+    "Charges": "8",
+    "Source": "Anneltha Shop (Favor Rank 9)",
+    "Ingame Description": "Target gains Taunting, and a large amount of Defense."
+  },
+  {
+    "Spell Name": "Earthen Embrace",
+    "Class": "Nature",
+    "Charges": "8",
+    "Source": "Regalis Shop (Favor Rank 12)",
+    "Ingame Description": "Target recovers a moderate amount of Health and gains a Barrier that absorbs damage equal to 100% of the amount healed."
+  },
+  {
+    "Spell Name": "Earthen Spike",
+    "Class": "Nature",
+    "Charges": "12",
+    "Source": "Anneltha Shop (Favor Rank 2)",
+    "Ingame Description": "Target takes a small amount of damage, or massive damage if the target is Defending."
+  },
+  {
+    "Spell Name": "Earthquake",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Torun Shop (Favor Rank 16)",
+    "Ingame Description": "Enemies take a large amount of damage and their minions are removed."
+  },
+  {
+    "Spell Name": "EF5 Twister",
+    "Class": "Nature",
+    "Charges": "4",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a large amount of damage and have a 50% chance to be afflicted with any of Snared, Scorned or Silenced."
+  },
+  {
+    "Spell Name": "Elemental Barrier",
+    "Class": "Nature",
+    "Charges": "20",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains a Barrier that absorbs damage equal to 50% of its Defense."
+  },
+  {
+    "Spell Name": "Elemental Guard",
+    "Class": "Nature",
+    "Charges": "15",
+    "Source": "Reclusa Shop (Favor Rank 12)",
+    "Ingame Description": "Your creatures gain a Barrier that absorbs damage equal to 20% of their Defense."
+  },
+  {
+    "Spell Name": "Elemental Wrath",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a large amount of damage."
+  },
+  {
+    "Spell Name": "Empower",
+    "Class": "Nature",
+    "Charges": "25",
+    "Source": "Standard Spell, Druid Starter",
+    "Ingame Description": "Target gains Savage."
+  },
+  {
+    "Spell Name": "Energize",
+    "Class": "Nature",
+    "Charges": "8",
+    "Source": "Nature Guild",
+    "Ingame Description": "Target's Spell Gems' Charges are set to 35%."
+  },
+  {
+    "Spell Name": "Entangle",
+    "Class": "Nature",
+    "Charges": "18",
+    "Source": "Standard Spell",
+    "Ingame Description": "Each enemy has a 50% chance to be afflicted with Snared."
+  },
+  {
+    "Spell Name": "Entangling Arrow",
+    "Class": "Nature",
+    "Charges": "13",
+    "Source": "Apocranox Shop (Favor Rank 6)",
+    "Ingame Description": "Target takes a moderate amount of damage and is afflicted with Snared. 100% of the damage is based on the caster's Speed instead of Intelligence."
+  },
+  {
+    "Spell Name": "Entangling Roots",
+    "Class": "Nature",
+    "Charges": "7",
+    "Source": "Nature Guild",
+    "Ingame Description": "Enemies are afflicted with Snared."
+  },
+  {
+    "Spell Name": "Evolution",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target creature is transformed into a creature that belongs to its same race, and gains a massive amount of Attack, Intelligence, Defense and Speed. If the battle is a boss battle, this spell only works on your creatures."
+  },
+  {
+    "Spell Name": "Expel",
+    "Class": "Nature",
+    "Charges": "6",
+    "Source": "Anneltha Shop (Favor Rank 6) + Nature Guild",
+    "Ingame Description": "One of the target's Spell Gems loses 100% of its Charges, and enemies take damage equal to 7% of the target's Intelligence for each Charge removed."
+  },
+  {
+    "Spell Name": "Explosive Arrow",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "Apocranox Shop (Favor Rank 2)",
+    "Ingame Description": "Target takes a moderate amount of damage, or a devastating amount of damage if it has a Bomb. 100% of the damage is based on the caster's Speed instead of Intelligence."
+  },
+  {
+    "Spell Name": "Fire Arrow",
+    "Class": "Nature",
+    "Charges": "13",
+    "Source": "Apocranox Shop (Favor Rank 12)",
+    "Ingame Description": "Target takes a moderate amount of damage and is afflicted with Burning. 100% of the damage is based on the caster's Speed instead of Intelligence."
+  },
+  {
+    "Spell Name": "Fist of Torun",
+    "Class": "Nature",
+    "Charges": "4",
+    "Source": "Nature Guild",
+    "Ingame Description": "Target takes a devastating amount of damage, and your creatures take damage equal to 20% of the damage dealt."
+  },
+  {
+    "Spell Name": "Forbidden Unity",
+    "Class": "Nature",
+    "Charges": "1",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Your other creatures Cast the Spell Gem in their first slot. Then, those Spell Gems are sealed."
+  },
+  {
+    "Spell Name": "Fragmenting Arrow",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a moderate amount of damage that ignores 30% of the target's Defense. If the amount of damage exceeds 100% of the target's Maximum Health, all other enemies take this damage as well. 100% of the damage is based on the caster's Speed instead of Intelligence."
+  },
+  {
+    "Spell Name": "Freezing Sting",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a moderate amount of damage, loses a moderate amount of Speed, and is afflicted with Frozen."
+  },
+  {
+    "Spell Name": "Frost Arrow",
+    "Class": "Nature",
+    "Charges": "13",
+    "Source": "Apocranox Shop (Favor Rank 9)",
+    "Ingame Description": "Target takes a moderate amount of damage and is afflicted with Frozen. 100% of the damage is based on the caster's Speed instead of Intelligence."
+  },
+  {
+    "Spell Name": "Frost Enchantment",
+    "Class": "Nature",
+    "Charges": "8",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains Protected, and a large amount of Intelligence."
+  },
+  {
+    "Spell Name": "Fury Swipes",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "Standard Spell, Mime Starter",
+    "Ingame Description": "Target Attacks random enemy creatures 3 times. Each attack deals 25% normal damage."
+  },
+  {
+    "Spell Name": "Germinate",
+    "Class": "Nature",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target is afflicted with Snared and Poisoned."
+  },
+  {
+    "Spell Name": "Giant's Strength",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Meraxis Shop (Favor Rank 12)",
+    "Ingame Description": "Target gains a massive amount of Attack."
+  },
+  {
+    "Spell Name": "Gift of the Wild",
+    "Class": "Nature",
+    "Charges": "13",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures recover a small amount of Health and gain Repelling."
+  },
+  {
+    "Spell Name": "Giggle",
+    "Class": "Nature",
+    "Charges": "12",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target recovers a small amount of Health and gains Intelligence equal to 100% of the amount healed."
+  },
+  {
+    "Spell Name": "Glacier",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a large amount of damage and is afflicted with Frozen."
+  },
+  {
+    "Spell Name": "Good Fortune",
+    "Class": "Nature",
+    "Charges": "1",
+    "Source": "Avatar of Meraxis",
+    "Ingame Description": "Your creatures gain all buffs. This spell does not activate on-buff effects. This spell is an Ultimate spell."
+  },
+  {
+    "Spell Name": "Grandeur",
+    "Class": "Nature",
+    "Charges": "1",
+    "Source": "Avatar of Ariamaki",
+    "Ingame Description": "Your creatures gain a massive amount of stats and their Ultimate Spell Gems recover 100% Charges. This spell is an Ultimate Spell."
+  },
+  {
+    "Spell Name": "Herd Immunity",
+    "Class": "Nature",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures recover Health equal to 100% of the target's Poisoned potency."
+  },
+  {
+    "Spell Name": "Homing Arrow",
+    "Class": "Nature",
+    "Charges": "13",
+    "Source": "Apocranox Shop (Favor Rank 25)",
+    "Ingame Description": "Target takes a moderate amount of damage that ignores 50% of the target's Defense. 100% of the damage is based on the caster's Speed instead of Intelligence."
+  },
+  {
+    "Spell Name": "Horrible Howl",
+    "Class": "Nature",
+    "Charges": "7",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Your creatures with Dire Wolves gain 3 stacks of this minion."
+  },
+  {
+    "Spell Name": "Hurling of Rocks",
+    "Class": "Nature",
+    "Charges": "4",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Random enemies take a large amount of damage continuously and are afflicted with Confused and Bleeding. After each enemy takes damage, this spell has a 35% chance to end."
+  },
+  {
+    "Spell Name": "Ice Bolt",
+    "Class": "Nature",
+    "Charges": "18",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a small amount of damage and is afflicted with Frozen."
+  },
+  {
+    "Spell Name": "Icicle Rain",
+    "Class": "Nature",
+    "Charges": "4",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Random enemies take a large amount of damage continuously and are afflicted with Frozen and Bleeding. After each enemy takes damage, this spell has a 35% chance to end."
+  },
+  {
+    "Spell Name": "Icicle Spear",
+    "Class": "Nature",
+    "Charges": "4",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes 1% to 100% of a large amount of damage 3 times. Each time this spell deals damage, it has a 10% chance to kill the target."
+  },
+  {
+    "Spell Name": "Iron Skin",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Anneltha Shop (Favor Rank 16)",
+    "Ingame Description": "Target gains a massive amount of Defense."
+  },
+  {
+    "Spell Name": "Lightning Storm",
+    "Class": "Nature",
+    "Charges": "4",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a massive amount of damage, and the caster is afflicted with Silenced."
+  },
+  {
+    "Spell Name": "Lightning Strike",
+    "Class": "Nature",
+    "Charges": "12",
+    "Source": "Torun Shop (Favor Rank 2)",
+    "Ingame Description": "Target takes a small amount of damage, or massive damage if the target is Provoking."
+  },
+  {
+    "Spell Name": "Living Boots",
+    "Class": "Nature",
+    "Charges": "7",
+    "Source": "Arena Shop (Rank 19)",
+    "Ingame Description": "Your creatures gain a moderate amount of Speed, plus 65% more for each turn they've taken in the current battle. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Bow",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Arena Shop (Rank 43)",
+    "Ingame Description": "Caster Casts 3 random Arrow spells. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Cloak",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "Arena Shop (Rank 33)",
+    "Ingame Description": "Caster gains a large amount of Speed and Invisible. The potency is based on the caster's Defense instead of Intelligence. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Nature Lance",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "Arena Shop (Rank 34)",
+    "Ingame Description": "Target takes a small amount of damage, or massive damage if the target is a Nature creature. The damage is based on the caster's Attack instead of Intelligence. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Nature Shield",
+    "Class": "Nature",
+    "Charges": "7",
+    "Source": "Arena Shop (Rank 34)",
+    "Ingame Description": "Caster's class is changed to Nature, it gains Invisible, and it gains a moderate amount of Defense. The potency is based on the caster's Defense instead of Intelligence. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Lycanthropy",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "Reclusa Shop (Favor Rank 16)",
+    "Ingame Description": "Caster transforms into a random Nature creature with 100% Health. Then, this Spell Gem is Sealed. This spell cannot be cast manually, but has a 100% chance to cast when this creature takes damage while it is below 25% Health."
+  },
+  {
+    "Spell Name": "Madness",
+    "Class": "Nature",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target and the caster take a devastating amount of damage."
+  },
+  {
+    "Spell Name": "Maelstrom",
+    "Class": "Nature",
+    "Charges": "15",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target is afflicted with Confused and Feared."
+  },
+  {
+    "Spell Name": "Magma Shower",
+    "Class": "Nature",
+    "Charges": "4",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Random enemies take a large amount of damage continuously and are afflicted with Burning and Vulnerable. After each enemy takes damage, this spell has a 35% chance to end."
+  },
+  {
+    "Spell Name": "Mangle",
+    "Class": "Nature",
+    "Charges": "13",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a small amount of damage, plus damage equal to 3 turns of its Bleeding debuff."
+  },
+  {
+    "Spell Name": "Mega Tsunami",
+    "Class": "Nature",
+    "Charges": "3",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a large amount of damage and have a 25% chance to be killed. Otherwise, they are afflicted with Cursed."
+  },
+  {
+    "Spell Name": "Memento of Speed",
+    "Class": "Nature",
+    "Charges": "20",
+    "Source": "False Gods (Construct)",
+    "Ingame Description": "This spell doesn't do anything when Cast. The caster has 5% more Speed for each Charge this Spell Gem is missing."
+  },
+  {
+    "Spell Name": "Mermaid's Kiss",
+    "Class": "Nature",
+    "Charges": "6",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target recovers a massive amount of Health and gains Mending."
+  },
+  {
+    "Spell Name": "Merry Malt",
+    "Class": "Nature",
+    "Charges": "12",
+    "Source": "Gambling Dwarves",
+    "Ingame Description": "Caster gains a random trait that belongs to its race. This spell is a Booze Spell."
+  },
+  {
+    "Spell Name": "Metamorphosis",
+    "Class": "Nature",
+    "Charges": "20",
+    "Source": "Regalis Shop (Favor Rank 9)",
+    "Ingame Description": "Target's Health is set to a random amount between 1% and 100%."
+  },
+  {
+    "Spell Name": "Meteor Shower",
+    "Class": "Nature",
+    "Charges": "6",
+    "Source": "Anneltha Shop (Favor Rank 25)",
+    "Ingame Description": "Enemies take a moderate amount of damage three times."
+  },
+  {
+    "Spell Name": "Might of the Jotun",
+    "Class": "Nature",
+    "Charges": "3",
+    "Source": "False Gods (Jotun)",
+    "Ingame Description": "Target gains a massive amount of Attack. At the start of its next turn, it Attacks a random enemy."
+  },
+  {
+    "Spell Name": "Morph: Nature",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain a large amount of Speed and their classes become Nature until the end of battle."
+  },
+  {
+    "Spell Name": "Muster",
+    "Class": "Nature",
+    "Charges": "7",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains Leeching and Mending, and a large amount of Attack."
+  },
+  {
+    "Spell Name": "Nature Orb",
+    "Class": "Nature",
+    "Charges": "3",
+    "Source": "False Gods (Caliban)",
+    "Ingame Description": "Your creatures gain a random buff and a moderate amount of stats."
+  },
+  {
+    "Spell Name": "Nature's Blessing",
+    "Class": "Nature",
+    "Charges": "20",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures' buffs gain 3 turns of duration."
+  },
+  {
+    "Spell Name": "Nourish",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain Mending."
+  },
+  {
+    "Spell Name": "Nutrition",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "Reclusa Shop (Favor Rank 6)",
+    "Ingame Description": "Removes one of the target's debuffs. If a debuff was successfully removed, heal the target for a large amount of Health."
+  },
+  {
+    "Spell Name": "Overcharge",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "False Gods (Jotun)",
+    "Ingame Description": "Target takes a devastating amount of damage. Then, this Spell Gem is Sealed."
+  },
+  {
+    "Spell Name": "Parasite Eve",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "Nature Guild",
+    "Ingame Description": "Enemies take damage equal to 10% of the amount of stats (other than Health) they've gained in the current battle."
+  },
+  {
+    "Spell Name": "Party in the Back",
+    "Class": "Nature",
+    "Charges": "15",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "A random enemy recovers a large amount of Health. This spell cannot be cast manually, but has a 100% chance to be cast after its owner is forcibly moved to the bottom of the timeline."
+  },
+  {
+    "Spell Name": "Petrify",
+    "Class": "Nature",
+    "Charges": "15",
+    "Source": "Regalis Shop (Favor Rank 6)",
+    "Ingame Description": "Target is afflicted with Stone."
+  },
+  {
+    "Spell Name": "Poison Arrow",
+    "Class": "Nature",
+    "Charges": "13",
+    "Source": "Starter Spell",
+    "Ingame Description": "Target takes a moderate amount of damage and is afflicted with Poisoned. 100% of the damage is based on the caster's Speed instead of Intelligence."
+  },
+  {
+    "Spell Name": "Polish",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "Nature Guild",
+    "Ingame Description": "One of the target's Spell Gems regenerates 100% of its Charges."
+  },
+  {
+    "Spell Name": "Profanity",
+    "Class": "Nature",
+    "Charges": "25",
+    "Source": "Torun Shop (Favor Rank 6)",
+    "Ingame Description": "Target Provokes."
+  },
+  {
+    "Spell Name": "Quicksand",
+    "Class": "Nature",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies have a 50% chance to be afflicted with Snared and to be moved a random number of places down the Timeline."
+  },
+  {
+    "Spell Name": "Raiden",
+    "Class": "Nature",
+    "Charges": "4",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Random enemies take a large amount of damage continuously and are afflicted with Blind and Confused. After each enemy takes damage, this spell has a 35% chance to end."
+  },
+  {
+    "Spell Name": "Rain of Arrows",
+    "Class": "Nature",
+    "Charges": "1",
+    "Source": "Avatar of Apocranox",
+    "Ingame Description": "Enemies take a small amount of damage and the caster Casts 5 random Arrow spells. This spell is an Ultimate spell."
+  },
+  {
+    "Spell Name": "Redoubt",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "Anneltha Shop (Favor Rank 12) + Nature Guild",
+    "Ingame Description": "One of the target's Spell Gems loses 100% of its Charges, and it gains Defense equal to 7% of the caster's Intelligence for each Charge removed."
+  },
+  {
+    "Spell Name": "Refresh",
+    "Class": "Nature",
+    "Charges": "20",
+    "Source": "Meraxis Shop (Favor Rank 9)",
+    "Ingame Description": "Target's debuffs are removed."
+  },
+  {
+    "Spell Name": "Restore Balance",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies' Health percentages are averaged."
+  },
+  {
+    "Spell Name": "Richter 10",
+    "Class": "Nature",
+    "Charges": "3",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Random enemies take a massive amount of damage continuously. After each enemy take damage, this spell has a 50% chance to end."
+  },
+  {
+    "Spell Name": "Riptide",
+    "Class": "Nature",
+    "Charges": "12",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Random enemies are moved one place down the Timeline. After each enemy is moved, this spell has a 10% chance to end."
+  },
+  {
+    "Spell Name": "Ruin",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "False Gods (Jotun)",
+    "Ingame Description": "Target loses a devastating amount of its highest stat. Then, this Spell Gem is Sealed."
+  },
+  {
+    "Spell Name": "Rune of Nax",
+    "Class": "Nature",
+    "Charges": "20",
+    "Source": "Rune Knight",
+    "Ingame Description": "Target takes a large amount of damage, caster gains a moderate amount of a random stat, and the caster's on-attack effects are activated. 100% of this spell's damage is based on the caster's highest stat."
+  },
+  {
+    "Spell Name": "Ruse",
+    "Class": "Nature",
+    "Charges": "12",
+    "Source": "False Gods (Jotun)",
+    "Ingame Description": "At the start of the target's next turn, it Casts its top-most Spell Gem twice."
+  },
+  {
+    "Spell Name": "Sandstorm",
+    "Class": "Nature",
+    "Charges": "8",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a moderate amount of damage and are afflicted with Blind."
+  },
+  {
+    "Spell Name": "Savage Spores",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Regalis Shop (Favor Rank 16)",
+    "Ingame Description": "All the creatures on the battlefield become Berserk and lose 40% Defense."
+  },
+  {
+    "Spell Name": "Scourge Life",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a small amount of damage, or massive damage if the target is a Life creature."
+  },
+  {
+    "Spell Name": "Secret Stuff",
+    "Class": "Nature",
+    "Charges": "7",
+    "Source": "Gambling Dwarves",
+    "Ingame Description": "The enemy with the highest Attack Attacks one of its allies for 200% normal damage. This spell is a Booze Spell."
+  },
+  {
+    "Spell Name": "Seduction",
+    "Class": "Nature",
+    "Charges": "1",
+    "Source": "Avatar of Regalis",
+    "Ingame Description": "Each enemy gives 25% of their Attack, Intelligence, Defense, and Speed to your creatures in the enemies' corresponding positions. This spell is an Ultimate Spell."
+  },
+  {
+    "Spell Name": "Seismic Crash",
+    "Class": "Nature",
+    "Charges": "12",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a moderate amount of damage. If the target has Stone, it has a 25% chance to be killed."
+  },
+  {
+    "Spell Name": "Shattered Rainbow",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a small, moderate, large, massive or devastating amount of damage and are afflicted with 1 to 3 random debuffs."
+  },
+  {
+    "Spell Name": "Shellbust",
+    "Class": "Nature",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target loses a moderate amount of Defense and deals damage equal to 150% of the amount reduced."
+  },
+  {
+    "Spell Name": "Shock",
+    "Class": "Nature",
+    "Charges": "8",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a moderate amount of damage, plus 20% more damage for each debuff they have."
+  },
+  {
+    "Spell Name": "Smoke Bomb",
+    "Class": "Nature",
+    "Charges": "15",
+    "Source": "Reclusa Shop (Favor Rank 2)",
+    "Ingame Description": "Enemies are afflicted with Blind."
+  },
+  {
+    "Spell Name": "Snowball",
+    "Class": "Nature",
+    "Charges": "12",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a small amount of damage and is afflicted with Frozen. If it already has this debuff, it is moved 1 place down the Timeline."
+  },
+  {
+    "Spell Name": "Snowstorm",
+    "Class": "Nature",
+    "Charges": "4",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a large amount of damage and have a 50% chance to be afflicted with Frozen."
+  },
+  {
+    "Spell Name": "Soothing Breeze",
+    "Class": "Nature",
+    "Charges": "6",
+    "Source": "Reclusa Shop (Favor Rank 9)",
+    "Ingame Description": "Target recovers a massive amount of Health."
+  },
+  {
+    "Spell Name": "Spirit Bond",
+    "Class": "Nature",
+    "Charges": "20",
+    "Source": "False Gods (Jotun)",
+    "Ingame Description": "Target gains the caster's trait."
+  },
+  {
+    "Spell Name": "Splitting Arrow",
+    "Class": "Nature",
+    "Charges": "14",
+    "Source": "Apocranox Shop (Favor Rank 16)",
+    "Ingame Description": "Enemies take a small amount of damage. 100% of the damage is based on the caster's Speed instead of Intelligence."
+  },
+  {
+    "Spell Name": "Stampede",
+    "Class": "Nature",
+    "Charges": "7",
+    "Source": "Torun Shop (Favor Rank 9)",
+    "Ingame Description": "Each of your creatures Attack an enemy for 50% normal damage. Each creature targets an enemy in their corresponding position."
+  },
+  {
+    "Spell Name": "Stone Skin",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Torun Shop (Favor Rank 12)",
+    "Ingame Description": "Target gains a massive amount of Current and Maximum Health."
+  },
+  {
+    "Spell Name": "Stone Ward",
+    "Class": "Nature",
+    "Charges": "14",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains a small amount of Defense. Then, it Defends and Provokes."
+  },
+  {
+    "Spell Name": "Stonewall",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "False Gods (Ancestor)",
+    "Ingame Description": "Your Defending creatures gain a massive amount of Defense."
+  },
+  {
+    "Spell Name": "Submerge",
+    "Class": "Nature",
+    "Charges": "11",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a moderate amount of damage, plus 25% damage for each turn they've taken in the current battle."
+  },
+  {
+    "Spell Name": "Succulent Scotch",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "Gambling Dwarves",
+    "Ingame Description": "All the creatures on the battlefield Attack themselves. This spell is a Booze Spell."
+  },
+  {
+    "Spell Name": "Summon Spiderlings",
+    "Class": "Nature",
+    "Charges": "18",
+    "Source": "Standard Spell",
+    "Ingame Description": "Caster gains 2 stacks of Spiderlings."
+  },
+  {
+    "Spell Name": "Tectonic Upheaval",
+    "Class": "Nature",
+    "Charges": "1",
+    "Source": "Avatar of Anneltha",
+    "Ingame Description": "Enemies take a massive amount of damage, lose a massive amount of Defense and Speed, and are afflicted with Snared. This spell is an Ultimate Spell."
+  },
+  {
+    "Spell Name": "Tornado",
+    "Class": "Nature",
+    "Charges": "7",
+    "Source": "Nature Guild",
+    "Ingame Description": "Target takes a large amount of damage, plus 35% damage for each dead creature."
+  },
+  {
+    "Spell Name": "Torun Attunement",
+    "Class": "Nature",
+    "Charges": "3",
+    "Source": "Nature Guild",
+    "Ingame Description": "Caster gains 1 stack of Torun Junior."
+  },
+  {
+    "Spell Name": "Toxic Frogmania",
+    "Class": "Nature",
+    "Charges": "12",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a small amount of damage, or a massive amount of damage if it is afflicted with Poisoned."
+  },
+  {
+    "Spell Name": "Tsunami",
+    "Class": "Nature",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a moderate amount of damage and lose a large amount of Speed."
+  },
+  {
+    "Spell Name": "Water Enchantment",
+    "Class": "Nature",
+    "Charges": "8",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains Splashing, and a large amount of Attack."
+  },
+  {
+    "Spell Name": "Waterfall",
+    "Class": "Nature",
+    "Charges": "9",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a moderate amount of damage, plus 15% more damage for each creature above them on the timeline."
+  },
+  {
+    "Spell Name": "Wave of Bliss",
+    "Class": "Nature",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies are afflicted with Mania. If they already have this debuff, they take damage equal to 100% of its potency instead."
+  },
+  {
+    "Spell Name": "Web",
+    "Class": "Nature",
+    "Charges": "25",
+    "Source": "Regalis Shop (Favor Rank 2)",
+    "Ingame Description": "Target is afflicted with Snared."
+  },
+  {
+    "Spell Name": "Whirlwind",
+    "Class": "Nature",
+    "Charges": "6",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a moderate amount of damage that ignores 30% of their Defense."
+  },
+  {
+    "Spell Name": "Wild Growth",
+    "Class": "Nature",
+    "Charges": "8",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains Mending, and a large amount of Maximum Health."
+  },
+  {
+    "Spell Name": "Wind Enchantment",
+    "Class": "Nature",
+    "Charges": "8",
+    "Source": "Meraxis Shop (Favor Rank 6), Monk Starter, Windrunner Starter",
+    "Ingame Description": "Target gains Agile, and a large amount of Speed."
+  },
+  {
+    "Spell Name": "Wind Shear",
+    "Class": "Nature",
+    "Charges": "13",
+    "Source": "Meraxis Shop (Favor Rank 2)",
+    "Ingame Description": "Enemies take a small amount of damage, plus 35% more damage for each Nature creature fighting on your side."
+  },
+  {
+    "Spell Name": "Windcutter",
+    "Class": "Nature",
+    "Charges": "14",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a moderate amount of damage. This damage ignores the Shelled and Barrier buffs."
+  },
+  {
+    "Spell Name": "Wrath of Nature",
+    "Class": "Nature",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain a moderate amount of Attack."
+  },
+  {
+    "Spell Name": "Absolute Focus",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target's next attack deals 100% more damage. This effect does not stack."
+  },
+  {
+    "Spell Name": "Amber Ale",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Gambling Dwarves",
+    "Ingame Description": "Target Attacks a random enemy for 300% normal damage. This spell is a Booze Spell."
+  },
+  {
+    "Spell Name": "Arcane Enchantment",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "Zonte Shop (Favor Rank 9)",
+    "Ingame Description": "Target gains Warded and Protected."
+  },
+  {
+    "Spell Name": "Arcane Fallacy",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "False Gods (Mindwurm)",
+    "Ingame Description": "Target Casts one of its multiple-target spells on its allies."
+  },
+  {
+    "Spell Name": "Arid Alcohol",
+    "Class": "Sorcery",
+    "Charges": "8",
+    "Source": "Gambling Dwarves",
+    "Ingame Description": "Enemies are afflicted with a random debuff (minimum of 1, maximum of 3) for every 2 debuffs they have. This spell is a Booze Spell."
+  },
+  {
+    "Spell Name": "Astral Dimension",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures' Spell Gems are unsealed. This Spell Gem cannot be Sealed."
+  },
+  {
+    "Spell Name": "Banish",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target's minions are removed."
+  },
+  {
+    "Spell Name": "Big Bang",
+    "Class": "Sorcery",
+    "Charges": "2",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "All creatures take a massive amount of damage, plus 3% more damage for each buff, debuff and minion the creature has. Then, their buffs, debuffs and minions are removed."
+  },
+  {
+    "Spell Name": "Black Ice",
+    "Class": "Sorcery",
+    "Charges": "12",
+    "Source": "Standard Spell",
+    "Ingame Description": "Each enemy has a 50% chance to be afflicted with Frozen, and each of your creatures have a 50% chance to gain Invisible."
+  },
+  {
+    "Spell Name": "Blank Slate",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "All creatures lose access to the extra traits they gained during battle."
+  },
+  {
+    "Spell Name": "Blinding Beam",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a large amount of damage and are afflicted with Blind."
+  },
+  {
+    "Spell Name": "Blindside",
+    "Class": "Sorcery",
+    "Charges": "14",
+    "Source": "Aurum Shop (Favor Rank 16)",
+    "Ingame Description": "Target takes a small amount of damage. This damage ignores the target's Defense."
+  },
+  {
+    "Spell Name": "Blur",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Aeolian Shop (Favor Rank 9)",
+    "Ingame Description": "Your creatures gain a moderate amount of Speed."
+  },
+  {
+    "Spell Name": "Brain Freeze",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Azural Shop (Favor Rank 16)",
+    "Ingame Description": "Enemies' Spell Gems they've cast in the current battle are Sealed."
+  },
+  {
+    "Spell Name": "Brightwave",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "False Gods (Mindwurm)",
+    "Ingame Description": "Target Casts all of its healing spells in your favor."
+  },
+  {
+    "Spell Name": "Co-Ray",
+    "Class": "Sorcery",
+    "Charges": "2",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Your other creatures Cast one of their damaging Spell Gems."
+  },
+  {
+    "Spell Name": "Colorwave (Sorcery)",
+    "Class": "Sorcery",
+    "Charges": "1",
+    "Source": "Spellweaver",
+    "Ingame Description": "Your creatures Cast one of their spells, plus 1 additional spell for each Sorcery Infusion you have."
+  },
+  {
+    "Spell Name": "Concoction",
+    "Class": "Sorcery",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Random enemies take a small amount of damage continuously and are afflicted with a random debuff. After each enemy takes damage, this spell has a 25% chance to end."
+  },
+  {
+    "Spell Name": "Conductive Chains",
+    "Class": "Sorcery",
+    "Charges": "6",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Deals a moderate amount of damage to the target, then bounces to each of the target's allies at random. The damage is increased by 20% for each bounce."
+  },
+  {
+    "Spell Name": "Confusion",
+    "Class": "Sorcery",
+    "Charges": "16",
+    "Source": "Standard Spell",
+    "Ingame Description": "Each enemy has a 50% chance to be afflicted with Confused."
+  },
+  {
+    "Spell Name": "Continuum",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Casts a random spell repeatedly. After each cast, this spell has a 25% chance to end."
+  },
+  {
+    "Spell Name": "Counterspell",
+    "Class": "Sorcery",
+    "Charges": "18",
+    "Source": "Standard Spell, Evoker Starter",
+    "Ingame Description": "Target takes a small amount of damage. The amount of damage is increased by 20% for each Charge this Spell Gem is missing."
+  },
+  {
+    "Spell Name": "Crystal Shield",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "Aeolian Shop (Favor Rank 16)",
+    "Ingame Description": "Your creatures gain a Barrier that absorbs damage equal to 100% of their Defense."
+  },
+  {
+    "Spell Name": "Crystal Spears",
+    "Class": "Sorcery",
+    "Charges": "14",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a moderate amount of damage, plus additional damage equal to 20% of the caster's Current Health."
+  },
+  {
+    "Spell Name": "Dark Crystal",
+    "Class": "Sorcery",
+    "Charges": "18",
+    "Source": "Aurum Shop (Favor Rank 2)",
+    "Ingame Description": "Target gains Shelled and Arcane."
+  },
+  {
+    "Spell Name": "Deep Freeze",
+    "Class": "Sorcery",
+    "Charges": "7",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies have a 50% chance to be afflicted with Frozen. If this happens, or if they're already Frozen, they are afflicted with Snared."
+  },
+  {
+    "Spell Name": "Deep Submersion",
+    "Class": "Sorcery",
+    "Charges": "18",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target's lowest stat is set equal to its highest stat. Then, its highest stat is set to its minimum value."
+  },
+  {
+    "Spell Name": "Dense Fog",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Each enemy has a 50% chance to be afflicted with Sleeping."
+  },
+  {
+    "Spell Name": "Discombobulate",
+    "Class": "Sorcery",
+    "Charges": "12",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies with Confused either Attack or Cast one of their spells, depending on whether their Attack or Intelligence is higher."
+  },
+  {
+    "Spell Name": "Disk of Creation",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Sorcery Guild",
+    "Ingame Description": "Target's stat gains and losses are removed."
+  },
+  {
+    "Spell Name": "Dispel",
+    "Class": "Sorcery",
+    "Charges": "20",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target's buffs and debuffs are removed."
+  },
+  {
+    "Spell Name": "Divination",
+    "Class": "Sorcery",
+    "Charges": "13",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target's Ethereal Spell Gems are Sealed, and this creature gains a small amount of Intelligence for each gem that was Sealed."
+  },
+  {
+    "Spell Name": "Drain Life",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a moderate amount of damage, and all your creatures recover Health equal to 100% of the damage dealt."
+  },
+  {
+    "Spell Name": "Drain Power",
+    "Class": "Sorcery",
+    "Charges": "3",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target's Spell Gems lose 1 Charge, and the caster's other Spell Gems gain 1 Charge."
+  },
+  {
+    "Spell Name": "Dream Stomp",
+    "Class": "Sorcery",
+    "Charges": "12",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a small amount of damage, or a massive amount of damage if they are afflicted with Sleeping."
+  },
+  {
+    "Spell Name": "Eagle Claws",
+    "Class": "Sorcery",
+    "Charges": "1",
+    "Source": "Avatar of Aeolian",
+    "Ingame Description": "Caster Attacks each enemy 2 times, and your creatures gain 10% Speed for each attack. This spell is an Ultimate spell."
+  },
+  {
+    "Spell Name": "Elemental Barrage",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "The last 3 Spell Gems that were cast by any creature in the current battle are cast again in your favor."
+  },
+  {
+    "Spell Name": "Elemental Tome",
+    "Class": "Sorcery",
+    "Charges": "25",
+    "Source": "Starter Spell",
+    "Ingame Description": "Your creatures each gain a random Spell Gem."
+  },
+  {
+    "Spell Name": "Emerald Power",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "Sorcery Guild",
+    "Ingame Description": "Your creatures gain a copy of the Spell Gem in the target's Artifact's Spell Slot."
+  },
+  {
+    "Spell Name": "Ethereal Knives",
+    "Class": "Sorcery",
+    "Charges": "9",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a moderate amount of damage. 100% of the damage is based on the caster's Speed instead of Intelligence."
+  },
+  {
+    "Spell Name": "Exhaustion",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "T'mere M'rgo Shop (Favor Rank 16)",
+    "Ingame Description": "Battle Fatigue is doubled."
+  },
+  {
+    "Spell Name": "Extinguish",
+    "Class": "Sorcery",
+    "Charges": "30",
+    "Source": "Standard Spell",
+    "Ingame Description": "Kills the target if it has less than 33% Health."
+  },
+  {
+    "Spell Name": "Faewind Blade",
+    "Class": "Sorcery",
+    "Charges": "12",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a small amount of damage 3 times."
+  },
+  {
+    "Spell Name": "Final Form",
+    "Class": "Sorcery",
+    "Charges": "12",
+    "Source": "Sorcery Guild",
+    "Ingame Description": "Target gains Rebirth, Protected and Berserk."
+  },
+  {
+    "Spell Name": "Fireworks",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "Aurum Shop (Favor Rank 12), Astrologer Starter",
+    "Ingame Description": "Enemies take a small amount of damage and have a 50% chance to be afflicted with Bomb."
+  },
+  {
+    "Spell Name": "Flash Freeze",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "Azural Shop (Favor Rank 6)",
+    "Ingame Description": "Each enemy has a 50% chance to be afflicted with Frozen."
+  },
+  {
+    "Spell Name": "Foxfire",
+    "Class": "Sorcery",
+    "Charges": "7",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target is afflcited with Burning, and all other enemies are afflicted with either Blind or Blighted."
+  },
+  {
+    "Spell Name": "Friendly Fire",
+    "Class": "Sorcery",
+    "Charges": "12",
+    "Source": "False Gods (Mindwurm)",
+    "Ingame Description": "Target Casts one of its single-target spells on one of its allies."
+  },
+  {
+    "Spell Name": "Frost Armor",
+    "Class": "Sorcery",
+    "Charges": "20",
+    "Source": "Azural Shop (Favor Rank 2)",
+    "Ingame Description": "Target gains Shelled and 30% Defense."
+  },
+  {
+    "Spell Name": "Frost Hammer",
+    "Class": "Sorcery",
+    "Charges": "1",
+    "Source": "Avatar of Azural",
+    "Ingame Description": "Target takes a devastating amount of damage, is afflicted with Frozen, and is sent to the bottom of the Timeline. This spell is an Ultimate spell."
+  },
+  {
+    "Spell Name": "Frost Rampart",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain Protected."
+  },
+  {
+    "Spell Name": "Fulmination",
+    "Class": "Sorcery",
+    "Charges": "18",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a small amount of damage, multiplied by battle fatigue."
+  },
+  {
+    "Spell Name": "Galaxy",
+    "Class": "Sorcery",
+    "Charges": "7",
+    "Source": "Aurum Shop (Favor Rank 6)",
+    "Ingame Description": "Enemies take a small amount of damage, plus 10% more damage for each buff each of your creatures have. Then, these buffs are removed."
+  },
+  {
+    "Spell Name": "Gem Bomb",
+    "Class": "Sorcery",
+    "Charges": "1",
+    "Source": "Avatar of Aurum",
+    "Ingame Description": "One of the caster's Ethereal Spell Gems is Sealed. Then, enemies take damage equal to 5% of the caster's highest stat for each Charge the Spell Gem has. This spell is an Ultimate spell."
+  },
+  {
+    "Spell Name": "Gem Conversion",
+    "Class": "Sorcery",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target's Chargs are redistributed."
+  },
+  {
+    "Spell Name": "Gem Gamble",
+    "Class": "Sorcery",
+    "Charges": "1",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target's Charges are set to either 0% or 100%."
+  },
+  {
+    "Spell Name": "Gravity",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "T'mere M'rgo Shop (Favor Rank 12)",
+    "Ingame Description": "Enemies take a small amount of damage plus 10% for how high they are on the Timeline."
+  },
+  {
+    "Spell Name": "Greater Dispel",
+    "Class": "Sorcery",
+    "Charges": "4",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Your creatures' debuffs and enemies' buffs are removed."
+  },
+  {
+    "Spell Name": "Haste",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains a massive amount of Speed."
+  },
+  {
+    "Spell Name": "Hungering Void",
+    "Class": "Sorcery",
+    "Charges": "1",
+    "Source": "Avatar of Tenebris",
+    "Ingame Description": "Enemies take a moderate amount of damage. Then, enemies take a moderate amount of damage for every time this spell has been Cast in the current battle. This spell is an Ultimate spell."
+  },
+  {
+    "Spell Name": "Hypertrophy",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "False Gods (Hydranox)",
+    "Ingame Description": "Target gains Maximum Health equal to 35% of its other stats. Then, those stats are set to their minimum values."
+  },
+  {
+    "Spell Name": "Icewolf Bite",
+    "Class": "Sorcery",
+    "Charges": "8",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a moderate amount of damage twice and is afflicted with Frozen."
+  },
+  {
+    "Spell Name": "Improvised Recitation",
+    "Class": "Sorcery",
+    "Charges": "4",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Caster Casts 3 of their Ethereal Spell Gems."
+  },
+  {
+    "Spell Name": "Insight",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Standard Spell, Cabalist Starter",
+    "Ingame Description": "Target gains Arcane. if it already has Arcane, it Casts a permanent Spell Gem."
+  },
+  {
+    "Spell Name": "Insincerity",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "False Gods (Mindwurm)",
+    "Ingame Description": "Target Casts all its buffing spells in your favor."
+  },
+  {
+    "Spell Name": "Invisibility",
+    "Class": "Sorcery",
+    "Charges": "20",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target gains Invisible."
+  },
+  {
+    "Spell Name": "Jinx",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a small amount of damage. This damage is increased by 25% for each debuff the target has."
+  },
+  {
+    "Spell Name": "Kilonova",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Random enemies take a large amount of damage continuously. After each enemy takes damage, the spell has a 25% chance to end."
+  },
+  {
+    "Spell Name": "Laser Beam",
+    "Class": "Sorcery",
+    "Charges": "7",
+    "Source": "False Gods (Impington)",
+    "Ingame Description": "Target takes a large amount of damage and loses Maximum Health equal to 100% of the damage dealt."
+  },
+  {
+    "Spell Name": "Lead the Charge",
+    "Class": "Sorcery",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a small amount of damage for each creature fighting on your side that belongs to the caster's race. 100% of the damage is based on the caster's highest stat."
+  },
+  {
+    "Spell Name": "Lingering Insanity",
+    "Class": "Sorcery",
+    "Charges": "11",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a small amount of damage. 100% of the damage is based on the enemies' Intelligence instead of the caster's."
+  },
+  {
+    "Spell Name": "Living Ring",
+    "Class": "Sorcery",
+    "Charges": "7",
+    "Source": "Arena Shop (Rank 24)",
+    "Ingame Description": "Target takes a devastating amount of damage. The damage is based on the caster's lowest stat instead of Intelligence. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Sorcery Lance",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Arena Shop (Rank 39)",
+    "Ingame Description": "Target takes a small amount of damage, or massive damage if the target is a Sorcery creature. The damage is based on the caster's Attack instead of Intelligence. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Sorcery Shield",
+    "Class": "Sorcery",
+    "Charges": "22",
+    "Source": "Arena Shop (Rank 39)",
+    "Ingame Description": "Caster's class is changed to Sorcery, it gains Warded, and it gains a moderate amount of Defense. The potency is based on the caster's Defense instead of Intelligence. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Staff",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "Arena Shop (Rank 38)",
+    "Ingame Description": "Enemies take a moderate amount of damage, plus 20% damage for each permanent Spell Gem the caster has equipped. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Living Wizard Hat",
+    "Class": "Sorcery",
+    "Charges": "6",
+    "Source": "Arena Shop (Rank 23)",
+    "Ingame Description": "Caster's Spell Gems do not consume Charges for the rest of the battle. This spell is an Arsenal Spell."
+  },
+  {
+    "Spell Name": "Lucky Gem",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target recovers 100% Charges. Does not affect Ultimate Spell. This spell cannot be cast manually, but has a 20% chance to cast on ally at the end of its turn."
+  },
+  {
+    "Spell Name": "Magic Jelly Beans",
+    "Class": "Sorcery",
+    "Charges": "7",
+    "Source": "Standard Spell (Backer), Fanatic Starter",
+    "Ingame Description": "Target takes a moderate amount of damage and is afflicted with a random debuff, or is healed for a moderate amount of Health and gains a random buff; depending on whether it is an enemy or an ally."
+  },
+  {
+    "Spell Name": "Magic Missile",
+    "Class": "Sorcery",
+    "Charges": "35",
+    "Source": "Starter Spell",
+    "Ingame Description": "Target takes a small amount of damage."
+  },
+  {
+    "Spell Name": "Magic Suppression",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies lose a moderate amount of Intelligence and are afflicted with Silenced."
+  },
+  {
+    "Spell Name": "Magnification",
+    "Class": "Sorcery",
+    "Charges": "7",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Casts the last single-target spell your creatures Cast. The spell targets all enemies."
+  },
+  {
+    "Spell Name": "Mass Dispel",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "All the creatures on the battlefield lose their buffs and debuffs."
+  },
+  {
+    "Spell Name": "Master's Hand",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a small amount of damage, plus 20% more damage for each time the caster has Attacked in the current battle."
+  },
+  {
+    "Spell Name": "Mega Magic",
+    "Class": "Sorcery",
+    "Charges": "1",
+    "Source": "Jewels of Zantai",
+    "Ingame Description": "Enemies take a large amount of damage."
+  },
+  {
+    "Spell Name": "Memento of Intelligence",
+    "Class": "Sorcery",
+    "Charges": "20",
+    "Source": "False Gods (Construct)",
+    "Ingame Description": "This spell doesn't do anything when Cast. The caster has 5% more Intelligence for each Charge this Spell Gem is missing."
+  },
+  {
+    "Spell Name": "Mental Barrier",
+    "Class": "Sorcery",
+    "Charges": "7",
+    "Source": "Sorcery Guild",
+    "Ingame Description": "Your creatures gain a Barrier that absorbs a massive amount of damage."
+  },
+  {
+    "Spell Name": "Mind Blast",
+    "Class": "Sorcery",
+    "Charges": "12",
+    "Source": "Zonte Shop (Favor Rank 2)",
+    "Ingame Description": "Target takes a moderate amount of damage and is afflicted with Stone."
+  },
+  {
+    "Spell Name": "Mind Control",
+    "Class": "Sorcery",
+    "Charges": "20",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target Attacks one of its allies."
+  },
+  {
+    "Spell Name": "Mind Crunch",
+    "Class": "Sorcery",
+    "Charges": "23",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes damage equal to its Intelligence minus its Attack."
+  },
+  {
+    "Spell Name": "Mind Crush",
+    "Class": "Sorcery",
+    "Charges": "11",
+    "Source": "Zonte Shop (Favor Rank 6), Sorcerer Starter",
+    "Ingame Description": "Target loses a moderate amount of Intelligence and is afflicted with Sleeping."
+  },
+  {
+    "Spell Name": "Mind Explosion",
+    "Class": "Sorcery",
+    "Charges": "14",
+    "Source": "T'mere M'rgo Shop (Favor Rank 9)",
+    "Ingame Description": "Target takes a moderate amount of damage. 100% of the damage is based on the target's Intelligence instead of the caster's Intelligence."
+  },
+  {
+    "Spell Name": "Mind Fizzle",
+    "Class": "Sorcery",
+    "Charges": "6",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies lose a large amount of Intelligence."
+  },
+  {
+    "Spell Name": "Mind Flay",
+    "Class": "Sorcery",
+    "Charges": "16",
+    "Source": "Sorcery Guild",
+    "Ingame Description": "Target takes a small amount of damage, plus 50% more for each creature between it and the caster on the Timeline."
+  },
+  {
+    "Spell Name": "Mind Games",
+    "Class": "Sorcery",
+    "Charges": "12",
+    "Source": "Sorcery Guild",
+    "Ingame Description": "Target heals your creatures for a large amount of Health (based on the caster's Intelligence)."
+  },
+  {
+    "Spell Name": "Mind Storm",
+    "Class": "Sorcery",
+    "Charges": "13",
+    "Source": "Standard Spell",
+    "Ingame Description": "Each enemy takes a small amount of damage and has a 50% chance to be afflicted with Stone."
+  },
+  {
+    "Spell Name": "Mind Tricks",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "Zonte Shop (Favor Rank 16)",
+    "Ingame Description": "Target Attacks itself for 50% normal damage."
+  },
+  {
+    "Spell Name": "Momentum",
+    "Class": "Sorcery",
+    "Charges": "7",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Random enemies take a small amount of damage continuously. After each enemy takes damage, the damage of this spell is increased by 50% and it has a 25% chance to end."
+  },
+  {
+    "Spell Name": "Morph: Sorcery",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain a large amount of Intelligence and their classes become Sorcery until the end of battle."
+  },
+  {
+    "Spell Name": "Mutagen",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "False Gods (Hydranox)",
+    "Ingame Description": "Target is resurrected with a large amount of Health and gains a large amount of stats (excluding Health)."
+  },
+  {
+    "Spell Name": "Mystery Gem",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target's Charges are randomized."
+  },
+  {
+    "Spell Name": "Obelisk of Summoning",
+    "Class": "Sorcery",
+    "Charges": "8",
+    "Source": "Sorcery Guild",
+    "Ingame Description": "Target's minions gain their maximum amount of stacks."
+  },
+  {
+    "Spell Name": "Permafrost",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "Azural Shop (Favor Rank 12)",
+    "Ingame Description": "Enemies that are Frozen are afflicted with Snared."
+  },
+  {
+    "Spell Name": "Pop",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Sorcery Guild",
+    "Ingame Description": "Random enemies take a moderate amount of damage. The number of times that enemies take damage is equal to the number of times this Spell Gem has been Cast in the current battle."
+  },
+  {
+    "Spell Name": "Potent Porter",
+    "Class": "Sorcery",
+    "Charges": "7",
+    "Source": "Gambling Dwarves",
+    "Ingame Description": "Caster Casts 2 of its permanent Spell Gems. This spell is a Booze Spell."
+  },
+  {
+    "Spell Name": "Powered Blast",
+    "Class": "Sorcery",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a small amount of damage, or a massive amount of damage if the target is the same class as the caster."
+  },
+  {
+    "Spell Name": "Prismatic Channeling",
+    "Class": "Sorcery",
+    "Charges": "4",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a large amount of damage, plus 20% more damage for each different class of creature fighting on your side."
+  },
+  {
+    "Spell Name": "Psionic Blast",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "Aeolian Shop (Favor Rank 6)",
+    "Ingame Description": "Target takes a moderate amount of damage and is afflicted with Weak."
+  },
+  {
+    "Spell Name": "Psychic Rapture",
+    "Class": "Sorcery",
+    "Charges": "12",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a small amount of damage, plus 10% more damage for each Ethereal Spell Gem the caster has, up to 200% extra damage."
+  },
+  {
+    "Spell Name": "Quietus",
+    "Class": "Sorcery",
+    "Charges": "1",
+    "Source": "Avatar of T'mere M'rgo",
+    "Ingame Description": "The first time this Spell Gem is Cast, your creatures gain a squad of minions. The second time this Spell Gem is Cast, enemies take a massive amount of damage plus 15% more damage for each minion each of your creatures have, and then their minions are removed. Then, this spell is reset. This spell is an Ultimate Spell."
+  },
+  {
+    "Spell Name": "Rabid Dementia",
+    "Class": "Sorcery",
+    "Charges": "20",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target Attacks a random enemy for 200% normal damage."
+  },
+  {
+    "Spell Name": "Recharge",
+    "Class": "Sorcery",
+    "Charges": "1",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Caster's Spell Gems gain 3 Charges."
+  },
+  {
+    "Spell Name": "Replicate",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "False Gods (Hydranox)",
+    "Ingame Description": "Caster Casts 2 of its other spells."
+  },
+  {
+    "Spell Name": "Resonance",
+    "Class": "Sorcery",
+    "Charges": "13",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a small amount of damage, or a large amount of damage if they are afflicted with Silenced."
+  },
+  {
+    "Spell Name": "Reverberate",
+    "Class": "Sorcery",
+    "Charges": "13",
+    "Source": "Aurum Shop (Favor Rank 9)",
+    "Ingame Description": "Enemies that are afflicted with Confused Attack one of their allies."
+  },
+  {
+    "Spell Name": "Reverse Polarity",
+    "Class": "Sorcery",
+    "Charges": "20",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target's debuffs are converted to random buffs."
+  },
+  {
+    "Spell Name": "River Against the Current",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies' buffs are removed."
+  },
+  {
+    "Spell Name": "Ruby Power",
+    "Class": "Sorcery",
+    "Charges": "30",
+    "Source": "Sorcery Guild",
+    "Ingame Description": "Caster Casts the Spell Gem in the target's Artifact Spell Slot. This spell is even more impressive if you manage to read its description ten times fast out loud."
+  },
+  {
+    "Spell Name": "Rune of Sah",
+    "Class": "Sorcery",
+    "Charges": "20",
+    "Source": "Rune Knight",
+    "Ingame Description": "Target takes a large amount of damage and its buffs and minions are removed, caster's debuffs are removed, and the caster's on-attack effects are activated. 100% of this spell's damage is based on the caster's highest stat."
+  },
+  {
+    "Spell Name": "Sapphire Power",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "Sorcery Guild",
+    "Ingame Description": "Target's Artifact's Spell Slot has a 100% chance to activate for the rest of the battle."
+  },
+  {
+    "Spell Name": "Scourge Nature",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a small amount of damage, or massive damage if the target is a Nature creature."
+  },
+  {
+    "Spell Name": "Self Analysis",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Caster gains stats equal to 5% of its allies' stats (other than Health)."
+  },
+  {
+    "Spell Name": "Shatter",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Azural Shop (Favor Rank 9)",
+    "Ingame Description": "Target takes a small amount of damage, or massive damage if the target is Frozen."
+  },
+  {
+    "Spell Name": "Shattering Ice",
+    "Class": "Sorcery",
+    "Charges": "8",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target takes a moderate amount of damage and is afflicted with Frozen. All other enemies are afflicted with Bleeding."
+  },
+  {
+    "Spell Name": "Shining Jewel",
+    "Class": "Sorcery",
+    "Charges": "3",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target recovers 100% Charges. This spell does not work on Ultimate Spell."
+  },
+  {
+    "Spell Name": "Sorcery Orb",
+    "Class": "Sorcery",
+    "Charges": "6",
+    "Source": "False Gods (Caliban)",
+    "Ingame Description": "Your creatures Cast a random spell that belongs to their class."
+  },
+  {
+    "Spell Name": "Spectral Rain",
+    "Class": "Sorcery",
+    "Charges": "7",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Increases the potency of all creatures' buffs and debuffs by 50%. This spell does not affect Inverted."
+  },
+  {
+    "Spell Name": "Spectral Swords",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a moderate amount of damage. The damage is based on the caster's Speed instead of Intelligence."
+  },
+  {
+    "Spell Name": "Spell Blast",
+    "Class": "Sorcery",
+    "Charges": "18",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target takes a small amount of damage. The amount of damage is increased by 10% for each Charge the Spell Gem has."
+  },
+  {
+    "Spell Name": "Spell Breath",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a moderate amount of damage. 50% of the damage is based on the caster's Attack instead of Intelligence."
+  },
+  {
+    "Spell Name": "Spell Flow",
+    "Class": "Sorcery",
+    "Charges": "8",
+    "Source": "Zonte Shop (Favor Rank 10)",
+    "Ingame Description": "Target gains Arcane and Warded."
+  },
+  {
+    "Spell Name": "Spell Leak",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies' Ethereal Spell Gems are sealed."
+  },
+  {
+    "Spell Name": "Spell Lock",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "All creatures are afflicted with Silenced."
+  },
+  {
+    "Spell Name": "Spell Strike",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "Standard Spell, Spellweaver",
+    "Ingame Description": "Target takes a moderate amount of damage. 50% of the damage is based on the caster's Attack instead of Intelligence."
+  },
+  {
+    "Spell Name": "Spell Ward",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain Warded."
+  },
+  {
+    "Spell Name": "Spontaneous Combustion",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target has a 35% chance to be killed. If this happens, all other enemies take a massive amount of damage."
+  },
+  {
+    "Spell Name": "Steel Storm",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies take a massive amount of damage."
+  },
+  {
+    "Spell Name": "Stun Beam",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target is sent to the bottom of the Timeline."
+  },
+  {
+    "Spell Name": "Subterfuge",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "False Gods (Mindwurm)",
+    "Ingame Description": "Target Attacks itself. Then, it has a 30% chance to attack itself again. This effect can occur multiple times in a row."
+  },
+  {
+    "Spell Name": "Suffocation",
+    "Class": "Sorcery",
+    "Charges": "6",
+    "Source": "Standard Spell",
+    "Ingame Description": "Target is afflicted with Silenced and Stone."
+  },
+  {
+    "Spell Name": "Summon Animated Gem",
+    "Class": "Sorcery",
+    "Charges": "8",
+    "Source": "Standard Spell",
+    "Ingame Description": "Caster gains Animated Gem."
+  },
+  {
+    "Spell Name": "Summon Animated Weapon",
+    "Class": "Sorcery",
+    "Charges": "8",
+    "Source": "Standard Spell",
+    "Ingame Description": "Caster gains Animated Weapon."
+  },
+  {
+    "Spell Name": "Summon Dire Wolf",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "Standard Spell",
+    "Ingame Description": "Caster gains 1 stack of Dire Wolves."
+  },
+  {
+    "Spell Name": "Summon Doppelganger",
+    "Class": "Sorcery",
+    "Charges": "3",
+    "Source": "Ariamaki Shop (Favor Rank 12)",
+    "Ingame Description": "Caster gains Doppelganger."
+  },
+  {
+    "Spell Name": "Surrender to Madness",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "Aurum Shop (Favor Rank 25)",
+    "Ingame Description": "Target is afflicted with Confused and Cursed."
+  },
+  {
+    "Spell Name": "Time Stop",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Proceed to the next creature's turn on the Timeline, ignoring all subsequent effects as a result of casting this spell."
+  },
+  {
+    "Spell Name": "Timewalk",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "T'mere M'rgo Shop (Favor Rank 25)",
+    "Ingame Description": "Target executes its start-of-turn effects and increases the number of turns it has taken by 1. This spell can only ever target 1 creature and can only be Cast once at a time."
+  },
+  {
+    "Spell Name": "Trade Offer",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Target gains this creature's Artifact's Trait."
+  },
+  {
+    "Spell Name": "Treasonous Mind",
+    "Class": "Sorcery",
+    "Charges": "13",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Caster's buffs are removed and this Spell Gem's owner steals 5% of the caster's highest stat. This spell cannot be cast manually, but has a 20% chance to be cast by enemies at the start of their turns."
+  },
+  {
+    "Spell Name": "True Magic",
+    "Class": "Sorcery",
+    "Charges": "3",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies take a moderate amount of damage, plus 5% more damage for each Charge each of its other Spell Gems are missing."
+  },
+  {
+    "Spell Name": "Truesight",
+    "Class": "Sorcery",
+    "Charges": "20",
+    "Source": "Aeolian Shop (Favor Rank 2)",
+    "Ingame Description": "Enemies are no longer Invisible."
+  },
+  {
+    "Spell Name": "Ultimus",
+    "Class": "Sorcery",
+    "Charges": "1",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Enemies each take a massive amount of damage continuously. After they take damage, this effect has a 50% chance to end, and then it jumps to the next enemy."
+  },
+  {
+    "Spell Name": "Universal Recall",
+    "Class": "Sorcery",
+    "Charges": "5",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "The number of turns all creatures have taken in the current battle is set to 0."
+  },
+  {
+    "Spell Name": "Unstable Anomaly",
+    "Class": "Sorcery",
+    "Charges": "1",
+    "Source": "Avatar of Zonte",
+    "Ingame Description": "Enemies take a small amount of damage multiplied by the number of times your creatures have Cast a spell in the current battle. This spell is an Ultimate Spell."
+  },
+  {
+    "Spell Name": "Unstable Equilibrium",
+    "Class": "Sorcery",
+    "Charges": "7",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Your creatures' Current Health is set equal to that of the target."
+  },
+  {
+    "Spell Name": "Usury",
+    "Class": "Sorcery",
+    "Charges": "12",
+    "Source": "Standard Spell (Backer)",
+    "Ingame Description": "Caster gains a small amount of Attack for each turn it has taken in the current battle (up to 5 times)."
+  },
+  {
+    "Spell Name": "Vaccination",
+    "Class": "Sorcery",
+    "Charges": "18",
+    "Source": "Standard Spell",
+    "Ingame Description": "Your creatures gain their lowest stat equal to 100% of the target's Poisoned potency."
+  },
+  {
+    "Spell Name": "Vacuum",
+    "Class": "Sorcery",
+    "Charges": "15",
+    "Source": "Starter Spell",
+    "Ingame Description": "Caster gains the target's trait."
+  },
+  {
+    "Spell Name": "Verdant Spheres",
+    "Class": "Sorcery",
+    "Charges": "10",
+    "Source": "T'mere M'rgo Shop (Favor Rank 6)",
+    "Ingame Description": "The caster Casts 3 of the target's Spell Gems in your favor."
+  },
+  {
+    "Spell Name": "Vertigo",
+    "Class": "Sorcery",
+    "Charges": "25",
+    "Source": "Aeolian Shop (Favor Rank 12)",
+    "Ingame Description": "Target is afflicted with Confused."
+  },
+  {
+    "Spell Name": "Void Flare",
+    "Class": "Sorcery",
+    "Charges": "20",
+    "Source": "Standard Spell",
+    "Ingame Description": "If the target has been resurrected in the current battle, it is killed."
+  },
+  {
+    "Spell Name": "Witchcraft",
+    "Class": "Sorcery",
+    "Charges": "7",
+    "Source": "Standard Spell",
+    "Ingame Description": "Enemies with Cursed Cast one of their single-target damage spells on a random creature."
+  },
+  {
+    "Spell Name": "Wormhole",
+    "Class": "Sorcery",
+    "Charges": "20",
+    "Source": "T'mere M'rgo Shop (Favor Rank 2)",
+    "Ingame Description": "Caster swaps positions with the target on the Timeline."
+  }
+]
